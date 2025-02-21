@@ -77,7 +77,7 @@
   "apis/Google.Cloud.Debugger.V2": "3.2.0",
   "apis/Google.Cloud.Deploy.V1": "2.4.0",
   "apis/Google.Cloud.DevTools.Common": "3.0.0",
-  "apis/Google.Cloud.DevTools.ContainerAnalysis.V1": "3.4.0",
+  "apis/Google.Cloud.DevTools.ContainerAnalysis.V1": "3.5.0",
   "apis/Google.Cloud.Diagnostics.AspNetCore3": "5.1.0",
   "apis/Google.Cloud.Diagnostics.Common": "5.1.0",
   "apis/Google.Cloud.Dialogflow.Cx.V3": "2.7.0",
@@ -228,5 +228,5 @@
   "apis/Google.Maps.MapsPlatformDatasets.V1Alpha": "1.0.0-beta01",
   "apis/Google.Maps.Places.V1": "1.0.0-beta00",
   "apis/Google.Maps.Routing.V2": "1.0.0-beta09",
-  "apis/Grafeas.V1": "3.4.0"
+  "apis/Grafeas.V1": "3.5.0"
 }

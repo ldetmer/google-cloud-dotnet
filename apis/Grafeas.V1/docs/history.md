@@ -1,5 +1,12 @@
 # Version history
 
+## Version 3.5.0, released 2025-02-21
+
+
+### New features
+
+* Allow Grafeas.V1 to use the default endpoint ([567992c](https://github.com/ldetmer/google-cloud-dotnet/commit/567992c4ea6cfff48a5e6e52a3d52bcec5383cd8))
+
 ## Version 3.7.0, released 2024-11-18
 
 ### New features
