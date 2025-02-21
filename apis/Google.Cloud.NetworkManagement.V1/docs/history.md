@@ -1,5 +1,20 @@
 # Version history
 
+## Version 2.4.0, released 2025-02-21
+
+
+### New features
+
+* add DNS endpoint of Google Kubernetes Engine cluster control plane ([14d1507](https://github.com/ldetmer/google-cloud-dotnet/commit/14d150726ba94347602efaa9db115f1da1228aa2))
+* add more detailed drop causes to corresponding enum ([14d1507](https://github.com/ldetmer/google-cloud-dotnet/commit/14d150726ba94347602efaa9db115f1da1228aa2))
+* add round-trip mode ([7f285c1](https://github.com/ldetmer/google-cloud-dotnet/commit/7f285c165cb943640033385786f9e8f02476e2a9))
+* expose the new v1 vpcflowlogs api proto ([31f0b69](https://github.com/ldetmer/google-cloud-dotnet/commit/31f0b691ec321fafc065d17e5b69b6b9a64d004e))
+
+
+### Documentation improvements
+
+* update outdated comments ([14d1507](https://github.com/ldetmer/google-cloud-dotnet/commit/14d150726ba94347602efaa9db115f1da1228aa2))
+
 ## Version 2.13.0, released 2025-01-13
 
 ### New features

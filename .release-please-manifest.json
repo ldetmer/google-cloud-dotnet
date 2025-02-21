@@ -137,7 +137,7 @@
   "apis/Google.Cloud.Monitoring.V3": "3.3.0",
   "apis/Google.Cloud.NetworkConnectivity.V1": "2.3.0",
   "apis/Google.Cloud.NetworkConnectivity.V1Alpha1": "2.0.0-alpha01",
-  "apis/Google.Cloud.NetworkManagement.V1": "2.3.0",
+  "apis/Google.Cloud.NetworkManagement.V1": "2.4.0",
   "apis/Google.Cloud.NetworkSecurity.V1Beta1": "2.0.0-beta03",
   "apis/Google.Cloud.Notebooks.V1": "2.2.0",
   "apis/Google.Cloud.Notebooks.V1Beta1": "2.0.0-beta02",
