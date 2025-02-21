@@ -1,5 +1,28 @@
 # Version history
 
+## Version 2.2.0, released 2025-02-21
+
+
+### New features
+
+* add Base Image URI to Container ([a73130d](https://github.com/ldetmer/google-cloud-dotnet/commit/a73130d3ce4213d802eefe51edc748fe07287f9e))
+* add BuildConfig to Services for configuring Run functions ([a73130d](https://github.com/ldetmer/google-cloud-dotnet/commit/a73130d3ce4213d802eefe51edc748fe07287f9e))
+* add BuildInfo to Revision for displaying BuildConfig used for a specific revision deployment ([a73130d](https://github.com/ldetmer/google-cloud-dotnet/commit/a73130d3ce4213d802eefe51edc748fe07287f9e))
+* add creator field to Execution ([a73130d](https://github.com/ldetmer/google-cloud-dotnet/commit/a73130d3ce4213d802eefe51edc748fe07287f9e))
+* add EncryptionKeyRevocationAction and shutdown duration configuration to Services ([6963dfd](https://github.com/ldetmer/google-cloud-dotnet/commit/6963dfdb09d8947ff414d6cb15b33c5edc049a50))
+* add project_descriptor to BuildspackBuild ([a73130d](https://github.com/ldetmer/google-cloud-dotnet/commit/a73130d3ce4213d802eefe51edc748fe07287f9e))
+* support advanced configurations options for cloud storage volumes by setting mount_options in the GCSVolumeSource configuration ([f8a46b8](https://github.com/ldetmer/google-cloud-dotnet/commit/f8a46b8760b14817434b7da6734a3208c2751a0b))
+* support manual instance count in Cloud Run for manual scaling feature ([aa9150c](https://github.com/ldetmer/google-cloud-dotnet/commit/aa9150cacc8005f1c2923220561c9c0c9b9c58f9))
+
+
+### Documentation improvements
+
+* A comment for field `max_instance_request_concurrency` in message `.google.cloud.run.v2.RevisionTemplate` is changed ([f8a46b8](https://github.com/ldetmer/google-cloud-dotnet/commit/f8a46b8760b14817434b7da6734a3208c2751a0b))
+* fixed formatting of some documentation ([6963dfd](https://github.com/ldetmer/google-cloud-dotnet/commit/6963dfdb09d8947ff414d6cb15b33c5edc049a50))
+* For field `invoker_iam_disabled` in message `.google.cloud.run.v2.Service`, clarify that feature is available by invitation only ([f8a46b8](https://github.com/ldetmer/google-cloud-dotnet/commit/f8a46b8760b14817434b7da6734a3208c2751a0b))
+* some typos were fixed and formatting changed ([a73130d](https://github.com/ldetmer/google-cloud-dotnet/commit/a73130d3ce4213d802eefe51edc748fe07287f9e))
+* Update docs for field `value` in message `.google.cloud.run.v2.EnvVar` to reflect Cloud Run product capabilities ([f8a46b8](https://github.com/ldetmer/google-cloud-dotnet/commit/f8a46b8760b14817434b7da6734a3208c2751a0b))
+
 ## Version 2.13.0, released 2025-02-10
 
 ### New features
