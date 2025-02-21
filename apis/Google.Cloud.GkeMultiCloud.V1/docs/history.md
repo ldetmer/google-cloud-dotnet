@@ -1,5 +1,19 @@
 # Version history
 
+## Version 2.3.0, released 2025-02-21
+
+
+### New features
+
+* added support for optionally disabling built-in GKE metrics ([3170840](https://github.com/ldetmer/google-cloud-dotnet/commit/317084009432ca7040b2a6cf1bf1f77efeaee353))
+* added tag bindings support for Attached Clusters ([3170840](https://github.com/ldetmer/google-cloud-dotnet/commit/317084009432ca7040b2a6cf1bf1f77efeaee353))
+
+
+### Documentation improvements
+
+* fix comments of existing field ([365129d](https://github.com/ldetmer/google-cloud-dotnet/commit/365129d5b96e6bb0dc5ce3d60c26dc18d781e9e7))
+* updated comments of existing fields ([3170840](https://github.com/ldetmer/google-cloud-dotnet/commit/317084009432ca7040b2a6cf1bf1f77efeaee353))
+
 ## Version 2.8.0, released 2025-01-06
 
 ### New features
