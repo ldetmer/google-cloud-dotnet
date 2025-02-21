@@ -1,5 +1,20 @@
 # Version history
 
+## Version 2.5.0, released 2025-02-21
+
+
+### New features
+
+* A new enum `Challenge` is added ([3080dfc](https://github.com/ldetmer/google-cloud-dotnet/commit/3080dfc1247a9714a9d5b4fbc1c4a4a3db0f444b))
+* A new field `challenge` is added to message `.google.cloud.recaptchaenterprise.v1.RiskAnalysis` ([3080dfc](https://github.com/ldetmer/google-cloud-dotnet/commit/3080dfc1247a9714a9d5b4fbc1c4a4a3db0f444b))
+
+
+### Documentation improvements
+
+* challenge is also returned for INVISIBLE keys ([eda016a](https://github.com/ldetmer/google-cloud-dotnet/commit/eda016ac3bddbc77eac351f17335256c37dfa544))
+* challenge is also returned for INVISIBLE keys ([d71a32f](https://github.com/ldetmer/google-cloud-dotnet/commit/d71a32f41f32ed69ddf2bf51bea37f2b408e09cb))
+* Update docs for FraudPrevention field in CreateAssessment ([eda016a](https://github.com/ldetmer/google-cloud-dotnet/commit/eda016ac3bddbc77eac351f17335256c37dfa544))
+
 ## Version 2.17.0, released 2024-11-18
 
 ### New features
@@ -221,5 +236,3 @@ No API surface changes since 1.0.0-beta01.
 ## Version 1.0.0-beta01, released 2020-03-23
 
 Initial beta release.
-
-
