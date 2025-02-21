@@ -1,5 +1,12 @@
 # Version history
 
+## Version 2.2.1, released 2025-02-21
+
+
+### Documentation improvements
+
+* Fixed typo in comments in Eventarc protos ([bb771b5](https://github.com/ldetmer/google-cloud-dotnet/commit/bb771b583bb220ea41a42b2baa3752d7cdf0eba8))
+
 ## Version 2.6.0, released 2024-10-29
 
 ### New features
