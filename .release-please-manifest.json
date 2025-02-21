@@ -154,7 +154,7 @@
   "apis/Google.Cloud.PolicyTroubleshooter.V1": "2.1.0",
   "apis/Google.Cloud.PrivateCatalog.V1Beta1": "2.0.0-beta02",
   "apis/Google.Cloud.Profiler.V2": "2.2.0",
-  "apis/Google.Cloud.PubSub.V1": "3.6.0-beta01",
+  "apis/Google.Cloud.PubSub.V1": "3.7.0-beta01",
   "apis/Google.Cloud.RapidMigrationAssessment.V1": "1.0.0-beta01",
   "apis/Google.Cloud.RecaptchaEnterprise.V1": "2.4.0",
   "apis/Google.Cloud.RecaptchaEnterprise.V1Beta1": "2.0.0-beta03",
