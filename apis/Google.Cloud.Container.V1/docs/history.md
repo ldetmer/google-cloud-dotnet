@@ -1,5 +1,23 @@
 # Version history
 
+## Version 3.14.0, released 2025-02-21
+
+
+### New features
+
+* add desired_enterprise_config,desired_node_pool_auto_config_linux_node_config to ClusterUpdate. ([c51e9ee](https://github.com/ldetmer/google-cloud-dotnet/commit/c51e9eef33ccad6b436c839c85ba2d9e220f6ce0))
+* add desired_tier to EnterpriseConfig. ([c51e9ee](https://github.com/ldetmer/google-cloud-dotnet/commit/c51e9eef33ccad6b436c839c85ba2d9e220f6ce0))
+* add DesiredEnterpriseConfig proto message ([c51e9ee](https://github.com/ldetmer/google-cloud-dotnet/commit/c51e9eef33ccad6b436c839c85ba2d9e220f6ce0))
+* add LinuxNodeConfig in NodePoolAutoConfig ([c51e9ee](https://github.com/ldetmer/google-cloud-dotnet/commit/c51e9eef33ccad6b436c839c85ba2d9e220f6ce0))
+* add LocalSsdEncryptionMode in NodeConfig ([c51e9ee](https://github.com/ldetmer/google-cloud-dotnet/commit/c51e9eef33ccad6b436c839c85ba2d9e220f6ce0))
+* add UpgradeInfoEvent proto message ([c51e9ee](https://github.com/ldetmer/google-cloud-dotnet/commit/c51e9eef33ccad6b436c839c85ba2d9e220f6ce0))
+
+
+### Documentation improvements
+
+* broken (or ambiguous) markdown link ([258a17c](https://github.com/ldetmer/google-cloud-dotnet/commit/258a17c83f7d48b8e945ed051d4f898259536c98))
+* Minor documentation updates ([c51e9ee](https://github.com/ldetmer/google-cloud-dotnet/commit/c51e9eef33ccad6b436c839c85ba2d9e220f6ce0))
+
 ## Version 3.33.0, released 2024-11-18
 
 ### New features
