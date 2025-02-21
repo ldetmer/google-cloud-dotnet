@@ -25,7 +25,7 @@
   "apis/Google.Cloud.AutoML.V1": "3.1.0",
   "apis/Google.Cloud.BareMetalSolution.V2": "1.1.0",
   "apis/Google.Cloud.Batch.V1": "2.0.0",
-  "apis/Google.Cloud.Batch.V1Alpha": "1.0.0-alpha11",
+  "apis/Google.Cloud.Batch.V1Alpha": "1.0.1-alpha11",
   "apis/Google.Cloud.BeyondCorp.AppConnections.V1": "1.0.0",
   "apis/Google.Cloud.BeyondCorp.AppConnectors.V1": "1.0.0",
   "apis/Google.Cloud.BeyondCorp.AppGateways.V1": "1.0.0",
