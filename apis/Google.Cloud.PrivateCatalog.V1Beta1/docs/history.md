@@ -1,5 +1,12 @@
 # Version history
 
+## Version 2.0.1-beta02, released 2025-02-21
+
+
+### Documentation improvements
+
+* fixed format string formatting ([2050e85](https://github.com/ldetmer/google-cloud-dotnet/commit/2050e85d52e16e087152b39a8199271ddd3d862d))
+
 ## Version 2.0.0-beta05, released 2024-05-08
 
 ### New features
