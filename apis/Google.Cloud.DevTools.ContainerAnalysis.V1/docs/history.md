@@ -1,5 +1,12 @@
 # Version history
 
+## Version 3.5.0, released 2025-02-21
+
+
+### Miscellaneous chores
+
+* **Google.Cloud.DevTools.ContainerAnalysis.V1:** Synchronize Container Analysis versions
+
 ## Version 3.7.0, released 2024-11-18
 
 ### New features
