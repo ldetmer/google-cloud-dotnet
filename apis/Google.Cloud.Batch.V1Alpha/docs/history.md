@@ -1,5 +1,17 @@
 # Version history
 
+## Version 1.0.1-alpha11, released 2025-02-21
+
+
+### Documentation improvements
+
+* Clarify Batch only supports global custom instance template now ([2032ad9](https://github.com/ldetmer/google-cloud-dotnet/commit/2032ad97acc9d2a6b3a694e5ba2f514f77c5f381))
+* clarify options for logs ([4e50c73](https://github.com/ldetmer/google-cloud-dotnet/commit/4e50c739e4e2375bdcbcbe8ca2da149f6d76a270))
+* Clarify the custom instance template needs to be in the same project ([4e50c73](https://github.com/ldetmer/google-cloud-dotnet/commit/4e50c739e4e2375bdcbcbe8ca2da149f6d76a270))
+* fix a few broken references in documentation ([6b4b4c9](https://github.com/ldetmer/google-cloud-dotnet/commit/6b4b4c95c338811ffe0a9da447bc655c57bfb059))
+* Rephrase reservation field doc ([4e1dcad](https://github.com/ldetmer/google-cloud-dotnet/commit/4e1dcad0a7172ee660ba2a1c31a78f985f349e23))
+* Update reservation field to include NO_RESERVATION ([2032ad9](https://github.com/ldetmer/google-cloud-dotnet/commit/2032ad97acc9d2a6b3a694e5ba2f514f77c5f381))
+
 ## Version 1.0.0-alpha31, released 2024-09-16
 
 ### New features
@@ -317,4 +329,3 @@ No API surface changes; just dependency updates.
 ## Version 1.0.0-alpha00, released 2022-06-24
 
 Initial release.
-
