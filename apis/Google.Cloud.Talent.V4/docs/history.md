@@ -1,5 +1,18 @@
 # Version history
 
+## Version 2.4.0, released 2025-02-21
+
+
+### New features
+
+* A new enum `RelevanceThreshold` is added ([45971fe](https://github.com/ldetmer/google-cloud-dotnet/commit/45971fe3f5dc4f09ebfa57ea979253085bd78d1a))
+* A new field `relevance_threshold` is added to message `.google.cloud.talent.v4.SearchJobsRequest` ([45971fe](https://github.com/ldetmer/google-cloud-dotnet/commit/45971fe3f5dc4f09ebfa57ea979253085bd78d1a))
+
+
+### Documentation improvements
+
+* multiple fixes for links in documentation ([45971fe](https://github.com/ldetmer/google-cloud-dotnet/commit/45971fe3f5dc4f09ebfa57ea979253085bd78d1a))
+
 ## Version 2.7.0, released 2025-01-06
 
 ### New features
@@ -117,5 +130,3 @@ Please note the breaking change of removing CommuteMethod.Cycling and CommuteMet
 ## Version 1.0.0-beta01, released 2020-09-15
 
 First beta release of GA v4 API.
-
-
