@@ -1,5 +1,31 @@
 # Version history
 
+## Version 2.9.0, released 2025-02-21
+
+
+### New features
+
+* A new field `agent_type` is added to message `.google.cloud.contactcenterinsights.v1.Conversation` ([3b15a19](https://github.com/ldetmer/google-cloud-dotnet/commit/3b15a195acfda579bff8f120c3da9557cd03a1ac))
+* A new resource pattern value `projects/{project}/locations/{location}/authorizedViewSets/{authorized_view_set}/authorizedViews/{authorized_view}/conversations/{conversation}/analyses/{analysis}` added to the resource definition `contactcenterinsights.googleapis.com/Analysis` ([3b15a19](https://github.com/ldetmer/google-cloud-dotnet/commit/3b15a195acfda579bff8f120c3da9557cd03a1ac))
+* A new resource pattern value `projects/{project}/locations/{location}/authorizedViewSets/{authorized_view_set}/authorizedViews/{authorized_view}/conversations/{conversation}/feedbackLabels/{feedback_label}` added to the resource definition `contactcenterinsights.googleapis.com/FeedbackLabel` ([3b15a19](https://github.com/ldetmer/google-cloud-dotnet/commit/3b15a195acfda579bff8f120c3da9557cd03a1ac))
+* A new resource pattern value `projects/{project}/locations/{location}/authorizedViewSets/{authorized_view_set}/authorizedViews/{authorized_view}/conversations/{conversation}` added to the resource definition `contactcenterinsights.googleapis.com/Conversation` ([3b15a19](https://github.com/ldetmer/google-cloud-dotnet/commit/3b15a195acfda579bff8f120c3da9557cd03a1ac))
+* Add AnalysisRules resource and APIs ([fc735ad](https://github.com/ldetmer/google-cloud-dotnet/commit/fc735add3c94e539818b5adfcf1137750e682099))
+* Add FeedbackLabel resource and APIs ([fc735ad](https://github.com/ldetmer/google-cloud-dotnet/commit/fc735add3c94e539818b5adfcf1137750e682099))
+* Add Quality AI resources and APIs ([fc735ad](https://github.com/ldetmer/google-cloud-dotnet/commit/fc735add3c94e539818b5adfcf1137750e682099))
+* Add QueryMetrics API ([fc735ad](https://github.com/ldetmer/google-cloud-dotnet/commit/fc735add3c94e539818b5adfcf1137750e682099))
+
+
+### Documentation improvements
+
+* A comment for field `custom_metadata_keys` in message `.google.cloud.contactcenterinsights.v1.IngestConversationsRequest` is changed ([fc735ad](https://github.com/ldetmer/google-cloud-dotnet/commit/fc735add3c94e539818b5adfcf1137750e682099))
+* A comment for field `encryption_spec` in message `.google.cloud.contactcenterinsights.v1.InitializeEncryptionSpecRequest` is changed ([fc735ad](https://github.com/ldetmer/google-cloud-dotnet/commit/fc735add3c94e539818b5adfcf1137750e682099))
+* A comment for field `kms_key` in message `.google.cloud.contactcenterinsights.v1.EncryptionSpec` is changed ([fc735ad](https://github.com/ldetmer/google-cloud-dotnet/commit/fc735add3c94e539818b5adfcf1137750e682099))
+* A comment for field `labels` in message `.google.cloud.contactcenterinsights.v1.Conversation` is changed ([fc735ad](https://github.com/ldetmer/google-cloud-dotnet/commit/fc735add3c94e539818b5adfcf1137750e682099))
+* A comment for field `metadata_json` in message `.google.cloud.contactcenterinsights.v1.Conversation` is changed ([fc735ad](https://github.com/ldetmer/google-cloud-dotnet/commit/fc735add3c94e539818b5adfcf1137750e682099))
+* A comment for field `partial_errors` in message `.google.cloud.contactcenterinsights.v1.InitializeEncryptionSpecMetadata` is changed ([fc735ad](https://github.com/ldetmer/google-cloud-dotnet/commit/fc735add3c94e539818b5adfcf1137750e682099))
+* A comment for message `EncryptionSpec` is changed ([fc735ad](https://github.com/ldetmer/google-cloud-dotnet/commit/fc735add3c94e539818b5adfcf1137750e682099))
+* A comment for method `InitializeEncryptionSpec` in service `ContactCenterInsights` is changed ([fc735ad](https://github.com/ldetmer/google-cloud-dotnet/commit/fc735add3c94e539818b5adfcf1137750e682099))
+
 ## Version 2.19.0, released 2025-01-06
 
 ### New features
