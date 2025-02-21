@@ -226,7 +226,7 @@
   "apis/Google.LongRunning": "3.0.0",
   "apis/Google.Maps.AddressValidation.V1": "1.0.0-beta03",
   "apis/Google.Maps.MapsPlatformDatasets.V1Alpha": "1.0.0-beta01",
-  "apis/Google.Maps.Places.V1": "1.0.0-beta00",
+  "apis/Google.Maps.Places.V1": "1.1.0-beta00",
   "apis/Google.Maps.Routing.V2": "1.0.0-beta09",
   "apis/Grafeas.V1": "3.4.0"
 }
