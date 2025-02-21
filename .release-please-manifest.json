@@ -157,7 +157,7 @@
   "apis/Google.Cloud.PubSub.V1": "3.6.0-beta01",
   "apis/Google.Cloud.RapidMigrationAssessment.V1": "1.0.0-beta01",
   "apis/Google.Cloud.RecaptchaEnterprise.V1": "2.4.0",
-  "apis/Google.Cloud.RecaptchaEnterprise.V1Beta1": "2.0.0-beta03",
+  "apis/Google.Cloud.RecaptchaEnterprise.V1Beta1": "2.0.1-beta03",
   "apis/Google.Cloud.RecommendationEngine.V1Beta1": "2.0.0-beta03",
   "apis/Google.Cloud.Recommender.V1": "3.2.0",
   "apis/Google.Cloud.Redis.V1": "3.2.0",
