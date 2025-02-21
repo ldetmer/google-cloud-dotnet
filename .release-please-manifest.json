@@ -117,7 +117,7 @@
   "apis/Google.Cloud.Ids.V1": "2.1.0",
   "apis/Google.Cloud.Iot.V1": "2.1.0",
   "apis/Google.Cloud.Kms.Inventory.V1": "1.0.0-beta01",
-  "apis/Google.Cloud.Kms.V1": "3.5.0",
+  "apis/Google.Cloud.Kms.V1": "3.6.0",
   "apis/Google.Cloud.Language.V1": "3.3.0",
   "apis/Google.Cloud.LifeSciences.V2Beta": "2.0.0-beta03",
   "apis/Google.Cloud.Location": "2.0.0",
