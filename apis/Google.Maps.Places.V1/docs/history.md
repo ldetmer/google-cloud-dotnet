@@ -1,5 +1,23 @@
 # Version history
 
+## Version 1.1.0-beta00, released 2025-02-21
+
+
+### New features
+
+* add more fuel type enum values ([284d087](https://github.com/ldetmer/google-cloud-dotnet/commit/284d08737db3d61aecd7fd43aeb5a3d0ca63cac1))
+* update attributes in Places API ([482e2dc](https://github.com/ldetmer/google-cloud-dotnet/commit/482e2dc7932e573fae02e29531fe66e76d9c4635))
+
+
+### Bug fixes
+
+* add oauth scopes to Places proto ([ee54180](https://github.com/ldetmer/google-cloud-dotnet/commit/ee54180880376324f52df3f50aa0107762ca765e))
+
+
+### Documentation improvements
+
+* A comment for enum value `LPG` in enum `FuelType` is changed to be clearer. ([284d087](https://github.com/ldetmer/google-cloud-dotnet/commit/284d08737db3d61aecd7fd43aeb5a3d0ca63cac1))
+
 ## Version 1.0.0-beta12, released 2025-02-03
 
 ### Bug fixes
