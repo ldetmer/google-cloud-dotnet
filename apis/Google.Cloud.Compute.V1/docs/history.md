@@ -1,5 +1,19 @@
 # Version history
 
+## Version 2.10.0, released 2025-02-21
+
+
+### New features
+
+* Update Compute Engine API to revision 20241015 ([dd73c65](https://github.com/ldetmer/google-cloud-dotnet/commit/dd73c65b8bb7aa8a5927b5e5f7bb8d5e8372f881))
+* Update Compute Engine API to revision 20241105 ([#954](https://github.com/ldetmer/google-cloud-dotnet/issues/954)) ([8577e3f](https://github.com/ldetmer/google-cloud-dotnet/commit/8577e3fd9f22769db8d740a44efc03dbc07689d8))
+* Update Compute Engine API to revision 20241201 ([#966](https://github.com/ldetmer/google-cloud-dotnet/issues/966)) ([7239f50](https://github.com/ldetmer/google-cloud-dotnet/commit/7239f50bdec0ada1978fe81799641632dc1084da))
+* Update Compute Engine API to revision 20241201 ([#971](https://github.com/ldetmer/google-cloud-dotnet/issues/971)) ([7a33e9d](https://github.com/ldetmer/google-cloud-dotnet/commit/7a33e9d369c8152cc48abec0732409ea60c8c094))
+* Update Compute Engine API to revision 20250107 ([#975](https://github.com/ldetmer/google-cloud-dotnet/issues/975)) ([f4f1f81](https://github.com/ldetmer/google-cloud-dotnet/commit/f4f1f81c82fb1157a5bdcf28b1c0ee7412c71f11))
+* Update Compute Engine API to revision 20250119 ([#981](https://github.com/ldetmer/google-cloud-dotnet/issues/981)) ([45c3223](https://github.com/ldetmer/google-cloud-dotnet/commit/45c322349cb14789bf9318e44974042baa167659))
+* Update Compute Engine API to revision 20250126 ([c7842e6](https://github.com/ldetmer/google-cloud-dotnet/commit/c7842e699a4324d6147d134e8067c7708f15b1f7))
+* Update Compute Engine API to revision 20250211 ([9a5de4b](https://github.com/ldetmer/google-cloud-dotnet/commit/9a5de4b82c574eba3146d3a629fb70b58398c276))
+
 ## Version 3.4.0, released 2025-02-03
 
 ### New features

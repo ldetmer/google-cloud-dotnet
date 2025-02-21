@@ -56,7 +56,7 @@
   "apis/Google.Cloud.CloudBuild.V2": "1.0.0-beta02",
   "apis/Google.Cloud.CloudDms.V1": "2.1.0",
   "apis/Google.Cloud.Common": "2.0.0",
-  "apis/Google.Cloud.Compute.V1": "2.9.0",
+  "apis/Google.Cloud.Compute.V1": "2.10.0",
   "apis/Google.Cloud.ConfidentialComputing.V1": "1.0.0-beta01",
   "apis/Google.Cloud.ConfidentialComputing.V1Alpha1": "1.0.0-alpha01",
   "apis/Google.Cloud.ContactCenterInsights.V1": "2.8.0",
