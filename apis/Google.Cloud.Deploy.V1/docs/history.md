@@ -1,5 +1,29 @@
 # Version history
 
+## Version 2.5.0, released 2025-02-21
+
+
+### New features
+
+* A new field `dns_endpoint` is added to message `.google.cloud.deploy.v1.GkeCluster` ([c6f4346](https://github.com/ldetmer/google-cloud-dotnet/commit/c6f4346c72e659d51c1e906283cd173d60048dcf))
+* A new field `timed_promote_release_condition` is added to message `.google.cloud.deploy.v1.AutomationRuleCondition` ([3b31b09](https://github.com/ldetmer/google-cloud-dotnet/commit/3b31b09fdd5ce3e59804634386339e282cf6d2d6))
+* A new field `timed_promote_release_operation` is added to message `.google.cloud.deploy.v1.AutomationRun` ([3b31b09](https://github.com/ldetmer/google-cloud-dotnet/commit/3b31b09fdd5ce3e59804634386339e282cf6d2d6))
+* A new field `timed_promote_release_rule` is added to message `.google.cloud.deploy.v1.AutomationRule` ([3b31b09](https://github.com/ldetmer/google-cloud-dotnet/commit/3b31b09fdd5ce3e59804634386339e282cf6d2d6))
+* A new message `TimedPromoteReleaseCondition` is added ([3b31b09](https://github.com/ldetmer/google-cloud-dotnet/commit/3b31b09fdd5ce3e59804634386339e282cf6d2d6))
+* A new message `TimedPromoteReleaseOperation` is added ([3b31b09](https://github.com/ldetmer/google-cloud-dotnet/commit/3b31b09fdd5ce3e59804634386339e282cf6d2d6))
+* A new message `TimedPromoteReleaseRule` is added ([3b31b09](https://github.com/ldetmer/google-cloud-dotnet/commit/3b31b09fdd5ce3e59804634386339e282cf6d2d6))
+
+
+### Documentation improvements
+
+* A comment for field `internal_ip` in message `.google.cloud.deploy.v1.GkeCluster` is changed ([c6f4346](https://github.com/ldetmer/google-cloud-dotnet/commit/c6f4346c72e659d51c1e906283cd173d60048dcf))
+* A comment for field `requested_cancellation` in message `.google.cloud.deploy.v1.OperationMetadata` is changed ([c6f4346](https://github.com/ldetmer/google-cloud-dotnet/commit/c6f4346c72e659d51c1e906283cd173d60048dcf))
+* A comment for field `skaffold_version` in message `.google.cloud.deploy.v1.Release` is changed ([c6f4346](https://github.com/ldetmer/google-cloud-dotnet/commit/c6f4346c72e659d51c1e906283cd173d60048dcf))
+* A comment for field `target_id` in message `.google.cloud.deploy.v1.AutomationRun` is changed ([3b31b09](https://github.com/ldetmer/google-cloud-dotnet/commit/3b31b09fdd5ce3e59804634386339e282cf6d2d6))
+* documentation improvements. `skaffold_version` field is no longer explicitly marked as optional ([5671fb8](https://github.com/ldetmer/google-cloud-dotnet/commit/5671fb8301dc3e79894b949bf95f719b5b6bb129))
+* Minor documentation improvements ([ea91b3d](https://github.com/ldetmer/google-cloud-dotnet/commit/ea91b3dc759bc46e6a8baa13cb6ba6c0cc9efb9c))
+* minor documentation updates ([efd4894](https://github.com/ldetmer/google-cloud-dotnet/commit/efd4894b04409faa2bf3a49ece329315a11afb7a))
+
 ## Version 3.4.0, released 2024-12-06
 
 ### New features
