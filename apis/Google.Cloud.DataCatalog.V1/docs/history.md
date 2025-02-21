@@ -1,5 +1,45 @@
 # Version history
 
+## Version 2.5.0, released 2025-02-21
+
+
+### New features
+
+* A new enum `CatalogUIExperience` is added ([18d632f](https://github.com/ldetmer/google-cloud-dotnet/commit/18d632f1b2f5619693af0e37bda54769c6eb4913))
+* A new enum `DataplexTransferStatus` is added ([7df11e5](https://github.com/ldetmer/google-cloud-dotnet/commit/7df11e5255541ed1d824b768452ce634cac5b81f))
+* A new enum `TagTemplateMigration` is added ([18d632f](https://github.com/ldetmer/google-cloud-dotnet/commit/18d632f1b2f5619693af0e37bda54769c6eb4913))
+* A new field `dataplex_transfer_status` is added to message `.google.cloud.datacatalog.v1.Tag` ([18d632f](https://github.com/ldetmer/google-cloud-dotnet/commit/18d632f1b2f5619693af0e37bda54769c6eb4913))
+* A new field `dataplex_transfer_status` is added to message `.google.cloud.datacatalog.v1.TagTemplate` ([7df11e5](https://github.com/ldetmer/google-cloud-dotnet/commit/7df11e5255541ed1d824b768452ce634cac5b81f))
+* A new field `feature_online_store_spec` is added to message `.google.cloud.datacatalog.v1.Entry` ([7df11e5](https://github.com/ldetmer/google-cloud-dotnet/commit/7df11e5255541ed1d824b768452ce634cac5b81f))
+* A new field `transferred_to_dataplex` is added to message `.google.cloud.datacatalog.v1.EntryGroup` ([18d632f](https://github.com/ldetmer/google-cloud-dotnet/commit/18d632f1b2f5619693af0e37bda54769c6eb4913))
+* A new message `FeatureOnlineStoreSpec` is added ([7df11e5](https://github.com/ldetmer/google-cloud-dotnet/commit/7df11e5255541ed1d824b768452ce634cac5b81f))
+* A new message `MigrationConfig` is added ([18d632f](https://github.com/ldetmer/google-cloud-dotnet/commit/18d632f1b2f5619693af0e37bda54769c6eb4913))
+* A new message `OrganizationConfig` is added ([18d632f](https://github.com/ldetmer/google-cloud-dotnet/commit/18d632f1b2f5619693af0e37bda54769c6eb4913))
+* A new message `RetrieveConfigRequest` is added ([18d632f](https://github.com/ldetmer/google-cloud-dotnet/commit/18d632f1b2f5619693af0e37bda54769c6eb4913))
+* A new message `RetrieveEffectiveConfigRequest` is added ([18d632f](https://github.com/ldetmer/google-cloud-dotnet/commit/18d632f1b2f5619693af0e37bda54769c6eb4913))
+* A new message `SetConfigRequest` is added ([18d632f](https://github.com/ldetmer/google-cloud-dotnet/commit/18d632f1b2f5619693af0e37bda54769c6eb4913))
+* A new method `RetrieveConfig` is added to service `DataCatalog` ([18d632f](https://github.com/ldetmer/google-cloud-dotnet/commit/18d632f1b2f5619693af0e37bda54769c6eb4913))
+* A new method `RetrieveEffectiveConfig` is added to service `DataCatalog` ([18d632f](https://github.com/ldetmer/google-cloud-dotnet/commit/18d632f1b2f5619693af0e37bda54769c6eb4913))
+* A new method `SetConfig` is added to service `DataCatalog` ([18d632f](https://github.com/ldetmer/google-cloud-dotnet/commit/18d632f1b2f5619693af0e37bda54769c6eb4913))
+* A new value `CUSTOM_TEXT_EMBEDDING` is added to enum `ModelSourceType` ([7df11e5](https://github.com/ldetmer/google-cloud-dotnet/commit/7df11e5255541ed1d824b768452ce634cac5b81f))
+* A new value `FEATURE_GROUP` is added to enum `EntryType` ([7df11e5](https://github.com/ldetmer/google-cloud-dotnet/commit/7df11e5255541ed1d824b768452ce634cac5b81f))
+* A new value `FEATURE_ONLINE_STORE` is added to enum `EntryType` ([7df11e5](https://github.com/ldetmer/google-cloud-dotnet/commit/7df11e5255541ed1d824b768452ce634cac5b81f))
+* A new value `FEATURE_VIEW` is added to enum `EntryType` ([7df11e5](https://github.com/ldetmer/google-cloud-dotnet/commit/7df11e5255541ed1d824b768452ce634cac5b81f))
+* A new value `GENIE` is added to enum `ModelSourceType` ([7df11e5](https://github.com/ldetmer/google-cloud-dotnet/commit/7df11e5255541ed1d824b768452ce634cac5b81f))
+* A new value `MARKETPLACE` is added to enum `ModelSourceType` ([7df11e5](https://github.com/ldetmer/google-cloud-dotnet/commit/7df11e5255541ed1d824b768452ce634cac5b81f))
+* A new value `TRANSFERRED` is added to enum `DataplexTransferStatus` ([18d632f](https://github.com/ldetmer/google-cloud-dotnet/commit/18d632f1b2f5619693af0e37bda54769c6eb4913))
+
+
+### Documentation improvements
+
+* A comment for field `name` in message `.google.cloud.datacatalog.v1.Entry` is changed ([7df11e5](https://github.com/ldetmer/google-cloud-dotnet/commit/7df11e5255541ed1d824b768452ce634cac5b81f))
+* A comment for field `name` in message `.google.cloud.datacatalog.v1.EntryGroup` is changed ([7df11e5](https://github.com/ldetmer/google-cloud-dotnet/commit/7df11e5255541ed1d824b768452ce634cac5b81f))
+* A comment for field `name` in message `.google.cloud.datacatalog.v1.Tag` is changed ([7df11e5](https://github.com/ldetmer/google-cloud-dotnet/commit/7df11e5255541ed1d824b768452ce634cac5b81f))
+* A comment for field `name` in message `.google.cloud.datacatalog.v1.TagTemplate` is changed ([7df11e5](https://github.com/ldetmer/google-cloud-dotnet/commit/7df11e5255541ed1d824b768452ce634cac5b81f))
+* A comment for field `name` in message `.google.cloud.datacatalog.v1.TagTemplateField` is changed ([7df11e5](https://github.com/ldetmer/google-cloud-dotnet/commit/7df11e5255541ed1d824b768452ce634cac5b81f))
+* A comment for message `EntryGroup` is changed ([18d632f](https://github.com/ldetmer/google-cloud-dotnet/commit/18d632f1b2f5619693af0e37bda54769c6eb4913))
+* fix markdown reference in `TagTemplate.is_publicly_readable` comment ([8c0fdf1](https://github.com/ldetmer/google-cloud-dotnet/commit/8c0fdf1f233f2208e959b9a0e2613426fba4db25))
+
 ## Version 2.14.0, released 2024-12-06
 
 ### New features
@@ -241,5 +281,3 @@ No API surface changes since 1.0.0-beta01.
 ## Version 1.0.0-beta01, released 2020-03-27
 
 Initial beta release.
-
-
