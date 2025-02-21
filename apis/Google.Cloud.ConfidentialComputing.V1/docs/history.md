@@ -1,5 +1,18 @@
 # Version history
 
+## Version 1.1.0-beta01, released 2025-02-21
+
+
+### New features
+
+* A new field `attester` is added to message `.google.cloud.confidentialcomputing.v1.VerifyAttestationRequest` ([99aef8d](https://github.com/ldetmer/google-cloud-dotnet/commit/99aef8d372669dc95bb063459f0aeb9fb8621f86))
+* Add a token_type options proto to allow for customization of specific token types. Added the first token type option to hold principal tag token options ([4bf271b](https://github.com/ldetmer/google-cloud-dotnet/commit/4bf271b8ae073fb8915a01e4f58be3647a20a49a))
+
+
+### Documentation improvements
+
+* Fixed a typo in `VerifyAttestationRequest` comment ([99aef8d](https://github.com/ldetmer/google-cloud-dotnet/commit/99aef8d372669dc95bb063459f0aeb9fb8621f86))
+
 ## Version 1.7.0, released 2024-12-06
 
 ### New features
