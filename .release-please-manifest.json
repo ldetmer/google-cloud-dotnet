@@ -60,7 +60,7 @@
   "apis/Google.Cloud.ConfidentialComputing.V1": "1.0.0-beta01",
   "apis/Google.Cloud.ConfidentialComputing.V1Alpha1": "1.0.0-alpha01",
   "apis/Google.Cloud.ContactCenterInsights.V1": "2.8.0",
-  "apis/Google.Cloud.Container.V1": "3.13.0",
+  "apis/Google.Cloud.Container.V1": "3.14.0",
   "apis/Google.Cloud.DataCatalog.Lineage.V1": "1.0.0",
   "apis/Google.Cloud.DataCatalog.V1": "2.4.0",
   "apis/Google.Cloud.DataFusion.V1": "2.1.0",
