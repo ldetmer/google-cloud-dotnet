@@ -1,5 +1,12 @@
 # Version history
 
+## Version 3.1.1, released 2025-02-21
+
+
+### Documentation improvements
+
+* Update io.proto to use markdown headings instead of HTML, remove some unused HTML from markdown ([687a27b](https://github.com/ldetmer/google-cloud-dotnet/commit/687a27bbaca41ad507985054d2619258c6df085b))
+
 ## Version 3.4.0, released 2024-05-13
 
 ### New features
@@ -112,4 +119,3 @@ First GA release. No API surface changes since 1.0.0-beta03.
 ## Version 1.0.0-beta01, released 2019-09-24
 
 - [Commit ba7dfdd](https://github.com/googleapis/google-cloud-dotnet/commit/ba7dfdd): First generation of AutoML
-
