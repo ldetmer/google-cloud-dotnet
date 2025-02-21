@@ -187,7 +187,7 @@
   "apis/Google.Cloud.Spanner.V1": "4.5.0",
   "apis/Google.Cloud.Speech.V1": "3.4.0",
   "apis/Google.Cloud.Speech.V1P1Beta1": "3.0.0-beta05",
-  "apis/Google.Cloud.Speech.V2": "1.0.0-beta05",
+  "apis/Google.Cloud.Speech.V2": "1.1.0-beta05",
   "apis/Google.Cloud.Storage.V1": "4.7.0",
   "apis/Google.Cloud.StorageInsights.V1": "1.0.0-beta01",
   "apis/Google.Cloud.StorageTransfer.V1": "2.2.0",

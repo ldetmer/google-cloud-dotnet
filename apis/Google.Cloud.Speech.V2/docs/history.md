@@ -1,5 +1,17 @@
 # Version history
 
+## Version 1.1.0-beta05, released 2025-02-21
+
+
+### New features
+
+* expand the set of supported explicit audio encodings ([b5594d6](https://github.com/ldetmer/google-cloud-dotnet/commit/b5594d615142b556295d899d14c13e22acc22f5d))
+
+
+### Documentation improvements
+
+* updated ExplicitDecodingConfig documentation to reflect changes related to newly supported encodings ([b5594d6](https://github.com/ldetmer/google-cloud-dotnet/commit/b5594d615142b556295d899d14c13e22acc22f5d))
+
 ## Version 1.4.0, released 2025-01-06
 
 ### New features
