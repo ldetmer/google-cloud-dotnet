@@ -135,7 +135,7 @@
   "apis/Google.Cloud.Metastore.V1Beta": "2.0.0-beta05",
   "apis/Google.Cloud.MigrationCenter.V1": "1.0.0-beta00",
   "apis/Google.Cloud.Monitoring.V3": "3.3.0",
-  "apis/Google.Cloud.NetworkConnectivity.V1": "2.3.0",
+  "apis/Google.Cloud.NetworkConnectivity.V1": "2.4.0",
   "apis/Google.Cloud.NetworkConnectivity.V1Alpha1": "2.0.0-alpha01",
   "apis/Google.Cloud.NetworkManagement.V1": "2.3.0",
   "apis/Google.Cloud.NetworkSecurity.V1Beta1": "2.0.0-beta03",
