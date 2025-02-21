@@ -1,5 +1,12 @@
 # Version history
 
+## Version 3.3.0, released 2025-02-21
+
+
+### New features
+
+* Adds Contextual Glossary support for Translation and AdaptiveMt ([72051d3](https://github.com/ldetmer/google-cloud-dotnet/commit/72051d33175df07abcda54e621712efe7d143afd))
+
 ## Version 3.9.0, released 2024-11-18
 
 ### New features
