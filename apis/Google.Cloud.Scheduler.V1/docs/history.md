@@ -1,5 +1,13 @@
 # Version history
 
+## Version 3.2.1, released 2025-02-21
+
+
+### Documentation improvements
+
+* annotate output-only fields as such ([5569d6a](https://github.com/ldetmer/google-cloud-dotnet/commit/5569d6a2df1452b35a6e73df137816001530e33d))
+* update comments ([5569d6a](https://github.com/ldetmer/google-cloud-dotnet/commit/5569d6a2df1452b35a6e73df137816001530e33d))
+
 ## Version 3.5.0, released 2024-05-14
 
 ### New features
