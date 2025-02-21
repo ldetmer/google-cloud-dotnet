@@ -1,5 +1,20 @@
 # Version history
 
+## Version 2.5.0, released 2025-02-21
+
+
+### New features
+
+* Add GoModule to Artifact and Results messages and new GO_MODULE_H1 hash type ([6903167](https://github.com/ldetmer/google-cloud-dotnet/commit/6903167f75cb3fc38012f0780fefd1a2492dcf9f))
+* Add option to enable fetching dependencies ([f4430c8](https://github.com/ldetmer/google-cloud-dotnet/commit/f4430c836be3850d8444a8009d33924b89224dee))
+* Add option to enable structured logging ([881f147](https://github.com/ldetmer/google-cloud-dotnet/commit/881f147890736fc7eb43747dec7db60afa527841))
+* Support for git proxy setup ([377ec77](https://github.com/ldetmer/google-cloud-dotnet/commit/377ec7749999ee4d288205056975c1c39bfb3d64))
+
+
+### Documentation improvements
+
+* Updates to proto message comments ([377ec77](https://github.com/ldetmer/google-cloud-dotnet/commit/377ec7749999ee4d288205056975c1c39bfb3d64))
+
 ## Version 2.15.0, released 2025-02-18
 
 ### New features
