@@ -190,7 +190,7 @@
   "apis/Google.Cloud.Speech.V2": "1.0.0-beta05",
   "apis/Google.Cloud.Storage.V1": "4.7.0",
   "apis/Google.Cloud.StorageInsights.V1": "1.0.0-beta01",
-  "apis/Google.Cloud.StorageTransfer.V1": "2.2.0",
+  "apis/Google.Cloud.StorageTransfer.V1": "2.3.0",
   "apis/Google.Cloud.Support.V2": "1.0.0-beta00",
   "apis/Google.Cloud.Talent.V4": "2.3.0",
   "apis/Google.Cloud.Talent.V4Beta1": "3.0.0-beta02",
