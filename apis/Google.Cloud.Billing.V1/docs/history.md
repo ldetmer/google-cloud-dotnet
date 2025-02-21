@@ -1,5 +1,12 @@
 # Version history
 
+## Version 3.3.0, released 2025-02-21
+
+
+### New features
+
+* added currency field to billing account message ([0089a68](https://github.com/ldetmer/google-cloud-dotnet/commit/0089a686e6934b7c32b54dea46f778f7b3c3043b))
+
 ## Version 3.9.0, released 2024-12-06
 
 ### New features
@@ -132,4 +139,3 @@ for details of changes to both GAX and code generation.
 ## Version 1.0.0-beta01, released 2020-01-15
 
 Initial beta release.
-
