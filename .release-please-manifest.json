@@ -75,7 +75,7 @@
   "apis/Google.Cloud.Datastream.V1": "2.3.0",
   "apis/Google.Cloud.Datastream.V1Alpha1": "2.0.0-alpha02",
   "apis/Google.Cloud.Debugger.V2": "3.2.0",
-  "apis/Google.Cloud.Deploy.V1": "2.4.0",
+  "apis/Google.Cloud.Deploy.V1": "2.5.0",
   "apis/Google.Cloud.DevTools.Common": "3.0.0",
   "apis/Google.Cloud.DevTools.ContainerAnalysis.V1": "3.4.0",
   "apis/Google.Cloud.Diagnostics.AspNetCore3": "5.1.0",
