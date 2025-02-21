@@ -1,5 +1,17 @@
 # Version history
 
+## Version 3.4.0, released 2025-02-21
+
+
+### New features
+
+* add filter argument to FirestoreAdmin.ListBackupsRequest ([26c2a9d](https://github.com/ldetmer/google-cloud-dotnet/commit/26c2a9d2f746ae1e293fb1fbccb12f6455de0498))
+
+
+### Bug fixes
+
+* bump default deadline on CreateDatabase and RestoreDatabase to 2 minutes ([26c2a9d](https://github.com/ldetmer/google-cloud-dotnet/commit/26c2a9d2f746ae1e293fb1fbccb12f6455de0498))
+
 ## Version 3.12.0, released 2025-01-27
 
 ### Bug fixes
