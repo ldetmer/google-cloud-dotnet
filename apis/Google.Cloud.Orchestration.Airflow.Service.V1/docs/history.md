@@ -1,5 +1,13 @@
 # Version history
 
+## Version 2.3.1, released 2025-02-21
+
+
+### Documentation improvements
+
+* A comment for method `ListWorkloads` in service `Environments` is changed ([20f810b](https://github.com/ldetmer/google-cloud-dotnet/commit/20f810b20a1a82ada185eee241074c9c824af143))
+* add examples for kubernetes secret ([3f3f215](https://github.com/ldetmer/google-cloud-dotnet/commit/3f3f2155c15f021a039ca0ea58544c99cd19171d))
+
 ## Version 2.9.0, released 2024-09-16
 
 ### New features
