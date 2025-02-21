@@ -72,7 +72,7 @@
   "apis/Google.Cloud.Dataproc.V1": "5.5.0",
   "apis/Google.Cloud.Datastore.Admin.V1": "2.1.0",
   "apis/Google.Cloud.Datastore.V1": "4.5.0",
-  "apis/Google.Cloud.Datastream.V1": "2.3.0",
+  "apis/Google.Cloud.Datastream.V1": "2.4.0",
   "apis/Google.Cloud.Datastream.V1Alpha1": "2.0.0-alpha02",
   "apis/Google.Cloud.Debugger.V2": "3.2.0",
   "apis/Google.Cloud.Deploy.V1": "2.4.0",
