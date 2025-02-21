@@ -1,5 +1,12 @@
 # Version history
 
+## Version 3.1.0, released 2025-02-21
+
+
+### New features
+
+* add ResourcePolicyMember to google/iam/v1 ([3c1d048](https://github.com/ldetmer/google-cloud-dotnet/commit/3c1d048a7cf49965a67dabdf8e5a7628ab9efde0))
+
 ## Version 3.4.0, released 2024-12-06
 
 ### New features
