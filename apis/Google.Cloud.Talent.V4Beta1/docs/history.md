@@ -1,5 +1,13 @@
 # Version history
 
+## Version 3.1.0-beta02, released 2025-02-21
+
+
+### New features
+
+* A new enum `RelevanceThreshold` is added ([d704518](https://github.com/ldetmer/google-cloud-dotnet/commit/d70451883734a3c0675a9d646074011da7b0bf5f))
+* A new field `relevance_threshold` is added to message `.google.cloud.talent.v4beta1.SearchJobsRequest` ([d704518](https://github.com/ldetmer/google-cloud-dotnet/commit/d70451883734a3c0675a9d646074011da7b0bf5f))
+
 ## Version 3.0.0-beta06, released 2025-01-06
 
 ### New features
