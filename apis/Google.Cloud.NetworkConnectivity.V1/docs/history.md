@@ -1,5 +1,24 @@
 # Version history
 
+## Version 2.4.0, released 2025-02-21
+
+
+### New features
+
+* add Network Connectivity Center APIs for dynamic route exchange ([8c58bae](https://github.com/ldetmer/google-cloud-dotnet/commit/8c58bae15c531aee2eca291d27e713d0dd92c58c))
+* add Network Connectivity Center APIs for include export filters ([8c58bae](https://github.com/ldetmer/google-cloud-dotnet/commit/8c58bae15c531aee2eca291d27e713d0dd92c58c))
+* add Network Connectivity Center APIs for include import ranges on hybrid spokes ([8c58bae](https://github.com/ldetmer/google-cloud-dotnet/commit/8c58bae15c531aee2eca291d27e713d0dd92c58c))
+* add Network Connectivity Center APIs for producer VPC spokes ([8c58bae](https://github.com/ldetmer/google-cloud-dotnet/commit/8c58bae15c531aee2eca291d27e713d0dd92c58c))
+* add Network Connectivity Center APIs for PSC connection propagation through NCC ([8c58bae](https://github.com/ldetmer/google-cloud-dotnet/commit/8c58bae15c531aee2eca291d27e713d0dd92c58c))
+* add Network Connectivity Center APIs for star topology ([8c58bae](https://github.com/ldetmer/google-cloud-dotnet/commit/8c58bae15c531aee2eca291d27e713d0dd92c58c))
+
+
+### Documentation improvements
+
+* update comment for `ListRoutes` method in service `HubService` to clarify that it lists routes in a route table ([8c58bae](https://github.com/ldetmer/google-cloud-dotnet/commit/8c58bae15c531aee2eca291d27e713d0dd92c58c))
+* update comment for `ListRouteTables` method in service `HubService` to clarify that it lists route tables in a hub ([8c58bae](https://github.com/ldetmer/google-cloud-dotnet/commit/8c58bae15c531aee2eca291d27e713d0dd92c58c))
+* update comment for field `location` in message `.google.cloud.networkconnectivity.v1.Route` to clarify that it's the origin location ([8c58bae](https://github.com/ldetmer/google-cloud-dotnet/commit/8c58bae15c531aee2eca291d27e713d0dd92c58c))
+
 ## Version 2.9.0, released 2024-12-06
 
 ### New features
