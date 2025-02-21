@@ -111,7 +111,7 @@
   "apis/Google.Cloud.GkeMultiCloud.V1": "2.2.0",
   "apis/Google.Cloud.Iam.Admin.V1": "2.1.0",
   "apis/Google.Cloud.Iam.Credentials.V1": "2.1.0",
-  "apis/Google.Cloud.Iam.V1": "3.0.0",
+  "apis/Google.Cloud.Iam.V1": "3.1.0",
   "apis/Google.Cloud.Iam.V2": "1.0.0-beta02",
   "apis/Google.Cloud.Iap.V1": "2.3.0",
   "apis/Google.Cloud.Ids.V1": "2.1.0",
