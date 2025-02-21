@@ -1,5 +1,12 @@
 # Version history
 
+## Version 4.6.0, released 2025-02-21
+
+
+### Miscellaneous chores
+
+* **Google.Cloud.Spanner.Data:** Synchronize Spanner versions
+
 ## Version 5.0.0-beta05, released 2024-11-07
 
 ### New features
