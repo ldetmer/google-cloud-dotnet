@@ -1,5 +1,83 @@
 # Version history
 
+## Version 2.16.0, released 2025-02-21
+
+
+### New features
+
+* A new field `create_time` is added to message `.google.cloud.aiplatform.v1.GenerateContentResponse` ([8888750](https://github.com/ldetmer/google-cloud-dotnet/commit/88887505d7629bc810b57c255f0ed0133970d0a3))
+* A new field `response_id` is added to message `.google.cloud.aiplatform.v1.GenerateContentResponse` ([8888750](https://github.com/ldetmer/google-cloud-dotnet/commit/88887505d7629bc810b57c255f0ed0133970d0a3))
+* A new value `NVIDIA_H100_MEGA_80GB` is added to enum `AcceleratorType` ([1bb5a2d](https://github.com/ldetmer/google-cloud-dotnet/commit/1bb5a2d2aded81918b6f3141f00cfd4e31a5ab02))
+* add a v1 UpdateEndpointLongRunning API ([69c07c0](https://github.com/ldetmer/google-cloud-dotnet/commit/69c07c0d7ae57a1e045affd11300246b81108e6e))
+* Add additional Probe options to v1 model.proto ([4549842](https://github.com/ldetmer/google-cloud-dotnet/commit/454984226dc7e5a6c2cab2e180485c87a042475b))
+* add BYOSA field to tuning_job ([f223db7](https://github.com/ldetmer/google-cloud-dotnet/commit/f223db7a4c84b46e59eb13f47f2f081981ff39a6))
+* add Context Cache to v1 ([9997d14](https://github.com/ldetmer/google-cloud-dotnet/commit/9997d14f4a344d1bff059fec85eb0b5cda081efc))
+* add CustomEnvironmentSpec to NotebookExecutionJob ([39afa50](https://github.com/ldetmer/google-cloud-dotnet/commit/39afa501f82de87c2b2149f2e9d6d3d6703272b3))
+* add fast_tryout_enabled to FasterDeploymentConfig v1 proto ([25d598b](https://github.com/ldetmer/google-cloud-dotnet/commit/25d598b66734afa0e1a390f4ced86b76f3f6bd15))
+* Add machine_spec, data_persistent_disk_spec, network_spec, euc_config, shielded_vm_config to message `.google.cloud.aiplatform.v1.NotebookRuntime` ([4b7f03d](https://github.com/ldetmer/google-cloud-dotnet/commit/4b7f03d8c197a823ccc00b99c420de6080924318))
+* add new `RequiredReplicaCount` field to DedicatedResources in MachineResources ([4226ced](https://github.com/ldetmer/google-cloud-dotnet/commit/4226ced8c84e3f401404225b46a0708cb34250f6))
+* add new `Status` field to DeployedModel in Endpoint ([4226ced](https://github.com/ldetmer/google-cloud-dotnet/commit/4226ced8c84e3f401404225b46a0708cb34250f6))
+* add Notebooks Runtime Software Configuration ([a2ea7f4](https://github.com/ldetmer/google-cloud-dotnet/commit/a2ea7f4977c825b1c8c7731d541909a9f8e01c67))
+* add optimized config in v1 API ([4f583e0](https://github.com/ldetmer/google-cloud-dotnet/commit/4f583e04b31270c6e10fb8e186b6b7cb0d288d16))
+* add per-modality token count break downs for GenAI APIs ([2bcde58](https://github.com/ldetmer/google-cloud-dotnet/commit/2bcde58e01cb095c711ede71c3782659ecab8083))
+* add retrieval_config to ToolConfig v1 ([bb1c6e6](https://github.com/ldetmer/google-cloud-dotnet/commit/bb1c6e6d73a8a4b96956dcf454d3d6fe588c468b))
+* Add speculative decoding spec to DeployedModel proto ([82e8ed5](https://github.com/ldetmer/google-cloud-dotnet/commit/82e8ed5c5884869131537c2c0ae0134410b1b2d0))
+* add Vertex RAG service proto to v1 ([ebf9b3f](https://github.com/ldetmer/google-cloud-dotnet/commit/ebf9b3fb51cfe13b68fd35c467c57125523c1ddf))
+* add workbench_runtime and kernel_name to NotebookExecutionJob ([5835c7c](https://github.com/ldetmer/google-cloud-dotnet/commit/5835c7cc3e9ed46f05a7c9d19a69de19c4aaf334))
+* added support for specifying function response type in FunctionDeclaration ([feb4c6f](https://github.com/ldetmer/google-cloud-dotnet/commit/feb4c6f65f6ea97d5a0558ab03202d28537f3866))
+* COMET added to evaluation service proto ([02fa803](https://github.com/ldetmer/google-cloud-dotnet/commit/02fa8030f6a38fa1a07c42fb2c35e0bdcd8f2678))
+* enable FeatureView Service Account in v1 API version ([34dc1ce](https://github.com/ldetmer/google-cloud-dotnet/commit/34dc1ce66d1079f9a1314a3bf4fa901d5d1655b1))
+* Expose code execution tool API to v1 ([211a43b](https://github.com/ldetmer/google-cloud-dotnet/commit/211a43b6408ec56e1a14958606ea9501f1060e9f))
+* metricX added to evaluation service proto ([ed0bd17](https://github.com/ldetmer/google-cloud-dotnet/commit/ed0bd176aaaa1a542a6f55eac0a7583a6242b4f9))
+* Model Registry Checkpoint API ([7d299ef](https://github.com/ldetmer/google-cloud-dotnet/commit/7d299ef3ac6b222ee809493ed8d45731e0b859cf))
+* Reasoning Engine v1 GAPIC release ([b5ac4d9](https://github.com/ldetmer/google-cloud-dotnet/commit/b5ac4d90c0ce4d62c74d81b34da679f898b83bf4))
+
+
+### Documentation improvements
+
+* A comment for field `annotation_schema_uri` in message `.google.cloud.aiplatform.v1.ExportDataConfig` is changed ([02fa803](https://github.com/ldetmer/google-cloud-dotnet/commit/02fa8030f6a38fa1a07c42fb2c35e0bdcd8f2678))
+* A comment for field `attributions` in message `.google.cloud.aiplatform.v1.Explanation` is changed ([02fa803](https://github.com/ldetmer/google-cloud-dotnet/commit/02fa8030f6a38fa1a07c42fb2c35e0bdcd8f2678))
+* A comment for field `bool_val` in message `.google.cloud.aiplatform.v1.Tensor` is changed ([02fa803](https://github.com/ldetmer/google-cloud-dotnet/commit/02fa8030f6a38fa1a07c42fb2c35e0bdcd8f2678))
+* A comment for field `bytes_val` in message `.google.cloud.aiplatform.v1.Tensor` is changed ([02fa803](https://github.com/ldetmer/google-cloud-dotnet/commit/02fa8030f6a38fa1a07c42fb2c35e0bdcd8f2678))
+* A comment for field `data_stats` in message `.google.cloud.aiplatform.v1.Model` is changed ([02fa803](https://github.com/ldetmer/google-cloud-dotnet/commit/02fa8030f6a38fa1a07c42fb2c35e0bdcd8f2678))
+* A comment for field `deployed_index` in message `.google.cloud.aiplatform.v1.MutateDeployedIndexRequest` is changed ([02fa803](https://github.com/ldetmer/google-cloud-dotnet/commit/02fa8030f6a38fa1a07c42fb2c35e0bdcd8f2678))
+* A comment for field `double_val` in message `.google.cloud.aiplatform.v1.Tensor` is changed ([02fa803](https://github.com/ldetmer/google-cloud-dotnet/commit/02fa8030f6a38fa1a07c42fb2c35e0bdcd8f2678))
+* A comment for field `enable_logging` in message `.google.cloud.aiplatform.v1.ModelMonitoringAlertConfig` is changed ([02fa803](https://github.com/ldetmer/google-cloud-dotnet/commit/02fa8030f6a38fa1a07c42fb2c35e0bdcd8f2678))
+* A comment for field `encryption_spec` in message `.google.cloud.aiplatform.v1.NotebookExecutionJob` is changed ([5835c7c](https://github.com/ldetmer/google-cloud-dotnet/commit/5835c7cc3e9ed46f05a7c9d19a69de19c4aaf334))
+* A comment for field `filter` in message `.google.cloud.aiplatform.v1.ListNotebookRuntimesRequest` is changed ([a2ea7f4](https://github.com/ldetmer/google-cloud-dotnet/commit/a2ea7f4977c825b1c8c7731d541909a9f8e01c67))
+* A comment for field `filter` in message `.google.cloud.aiplatform.v1.ListNotebookRuntimeTemplatesRequest` is changed ([a2ea7f4](https://github.com/ldetmer/google-cloud-dotnet/commit/a2ea7f4977c825b1c8c7731d541909a9f8e01c67))
+* A comment for field `float_val` in message `.google.cloud.aiplatform.v1.Tensor` is changed ([02fa803](https://github.com/ldetmer/google-cloud-dotnet/commit/02fa8030f6a38fa1a07c42fb2c35e0bdcd8f2678))
+* A comment for field `int_val` in message `.google.cloud.aiplatform.v1.Tensor` is changed ([02fa803](https://github.com/ldetmer/google-cloud-dotnet/commit/02fa8030f6a38fa1a07c42fb2c35e0bdcd8f2678))
+* A comment for field `int64_val` in message `.google.cloud.aiplatform.v1.Tensor` is changed ([02fa803](https://github.com/ldetmer/google-cloud-dotnet/commit/02fa8030f6a38fa1a07c42fb2c35e0bdcd8f2678))
+* A comment for field `next_page_token` in message `.google.cloud.aiplatform.v1.ListNotebookExecutionJobsResponse` is changed ([02fa803](https://github.com/ldetmer/google-cloud-dotnet/commit/02fa8030f6a38fa1a07c42fb2c35e0bdcd8f2678))
+* A comment for field `page_token` in message `.google.cloud.aiplatform.v1.ListFeatureGroupsRequest` is changed ([02fa803](https://github.com/ldetmer/google-cloud-dotnet/commit/02fa8030f6a38fa1a07c42fb2c35e0bdcd8f2678))
+* A comment for field `page_token` in message `.google.cloud.aiplatform.v1.ListNotebookExecutionJobsRequest` is changed ([02fa803](https://github.com/ldetmer/google-cloud-dotnet/commit/02fa8030f6a38fa1a07c42fb2c35e0bdcd8f2678))
+* A comment for field `page_token` in message `.google.cloud.aiplatform.v1.ListPersistentResourcesRequest` is changed ([02fa803](https://github.com/ldetmer/google-cloud-dotnet/commit/02fa8030f6a38fa1a07c42fb2c35e0bdcd8f2678))
+* A comment for field `page_token` in message `.google.cloud.aiplatform.v1.ListTuningJobsRequest` is changed ([02fa803](https://github.com/ldetmer/google-cloud-dotnet/commit/02fa8030f6a38fa1a07c42fb2c35e0bdcd8f2678))
+* A comment for field `predictions` in message `.google.cloud.aiplatform.v1.EvaluatedAnnotation` is changed ([02fa803](https://github.com/ldetmer/google-cloud-dotnet/commit/02fa8030f6a38fa1a07c42fb2c35e0bdcd8f2678))
+* A comment for field `request` in message `.google.cloud.aiplatform.v1.BatchMigrateResourcesOperationMetadata` is changed ([02fa803](https://github.com/ldetmer/google-cloud-dotnet/commit/02fa8030f6a38fa1a07c42fb2c35e0bdcd8f2678))
+* A comment for field `restart_job_on_worker_restart` in message `.google.cloud.aiplatform.v1.Scheduling` is changed ([ed0bd17](https://github.com/ldetmer/google-cloud-dotnet/commit/ed0bd176aaaa1a542a6f55eac0a7583a6242b4f9))
+* A comment for field `saved_query_id` in message `.google.cloud.aiplatform.v1.ExportDataConfig` is changed ([02fa803](https://github.com/ldetmer/google-cloud-dotnet/commit/02fa8030f6a38fa1a07c42fb2c35e0bdcd8f2678))
+* A comment for field `string_val` in message `.google.cloud.aiplatform.v1.Tensor` is changed ([02fa803](https://github.com/ldetmer/google-cloud-dotnet/commit/02fa8030f6a38fa1a07c42fb2c35e0bdcd8f2678))
+* A comment for field `timeout` in message `.google.cloud.aiplatform.v1.Scheduling` is changed ([ed0bd17](https://github.com/ldetmer/google-cloud-dotnet/commit/ed0bd176aaaa1a542a6f55eac0a7583a6242b4f9))
+* A comment for field `uint_val` in message `.google.cloud.aiplatform.v1.Tensor` is changed ([02fa803](https://github.com/ldetmer/google-cloud-dotnet/commit/02fa8030f6a38fa1a07c42fb2c35e0bdcd8f2678))
+* A comment for field `uint64_val` in message `.google.cloud.aiplatform.v1.Tensor` is changed ([02fa803](https://github.com/ldetmer/google-cloud-dotnet/commit/02fa8030f6a38fa1a07c42fb2c35e0bdcd8f2678))
+* A comment for field `update_mask` in message `.google.cloud.aiplatform.v1.UpdateFeatureViewRequest` is changed ([ed0bd17](https://github.com/ldetmer/google-cloud-dotnet/commit/ed0bd176aaaa1a542a6f55eac0a7583a6242b4f9))
+* A comment for message `DeleteEntityTypeRequest` is changed ([02fa803](https://github.com/ldetmer/google-cloud-dotnet/commit/02fa8030f6a38fa1a07c42fb2c35e0bdcd8f2678))
+* A comment for message `DeleteFeatureViewRequest` is changed ([02fa803](https://github.com/ldetmer/google-cloud-dotnet/commit/02fa8030f6a38fa1a07c42fb2c35e0bdcd8f2678))
+* A comment for message `GetDatasetRequest` is changed ([ed0bd17](https://github.com/ldetmer/google-cloud-dotnet/commit/ed0bd176aaaa1a542a6f55eac0a7583a6242b4f9))
+* A comment for message `GetDatasetVersionRequest` is changed ([ed0bd17](https://github.com/ldetmer/google-cloud-dotnet/commit/ed0bd176aaaa1a542a6f55eac0a7583a6242b4f9))
+* A comment for message `ListPersistentResourcesRequest` is changed ([02fa803](https://github.com/ldetmer/google-cloud-dotnet/commit/02fa8030f6a38fa1a07c42fb2c35e0bdcd8f2678))
+* A comment for message `StreamingReadFeatureValuesRequest` is changed ([02fa803](https://github.com/ldetmer/google-cloud-dotnet/commit/02fa8030f6a38fa1a07c42fb2c35e0bdcd8f2678))
+* A comment for method `ListAnnotations` in service `DatasetService` is changed ([ed0bd17](https://github.com/ldetmer/google-cloud-dotnet/commit/ed0bd176aaaa1a542a6f55eac0a7583a6242b4f9))
+* A comment for method `RebaseTunedModel` in service `GenAiTuningService` is changed ([ed0bd17](https://github.com/ldetmer/google-cloud-dotnet/commit/ed0bd176aaaa1a542a6f55eac0a7583a6242b4f9))
+* A comment for method `ResumeSchedule` in service `ScheduleService` is changed ([02fa803](https://github.com/ldetmer/google-cloud-dotnet/commit/02fa8030f6a38fa1a07c42fb2c35e0bdcd8f2678))
+* Deprecate `is_default` in message `.google.cloud.aiplatform.v1.NotebookRuntimeTemplate` ([4b7f03d](https://github.com/ldetmer/google-cloud-dotnet/commit/4b7f03d8c197a823ccc00b99c420de6080924318))
+* Deprecate `service_account` in message `.google.cloud.aiplatform.v1.NotebookRuntime` ([4b7f03d](https://github.com/ldetmer/google-cloud-dotnet/commit/4b7f03d8c197a823ccc00b99c420de6080924318))
+* Deprecate `service_account` in message `.google.cloud.aiplatform.v1.NotebookRuntimeTemplate` ([4b7f03d](https://github.com/ldetmer/google-cloud-dotnet/commit/4b7f03d8c197a823ccc00b99c420de6080924318))
+* Update comments for NumericFilter and Operator ([4f583e0](https://github.com/ldetmer/google-cloud-dotnet/commit/4f583e04b31270c6e10fb8e186b6b7cb0d288d16))
+* updated the maximum number of function declarations from 64 to 128 ([feb4c6f](https://github.com/ldetmer/google-cloud-dotnet/commit/feb4c6f65f6ea97d5a0558ab03202d28537f3866))
+
 ## Version 3.19.0, released 2025-02-18
 
 ### New features
