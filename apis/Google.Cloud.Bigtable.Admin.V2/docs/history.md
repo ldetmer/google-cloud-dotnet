@@ -1,5 +1,12 @@
 # Version history
 
+## Version 3.4.1, released 2025-02-21
+
+
+### Bug fixes
+
+* extend timeouts for check consistency ([13b35d3](https://github.com/ldetmer/google-cloud-dotnet/commit/13b35d36b9a35b8a19139e1f91b04cca289cdff2))
+
 ## Version 3.22.0, released 2025-01-27
 
 ### Bug fixes
