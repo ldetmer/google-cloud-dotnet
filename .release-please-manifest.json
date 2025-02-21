@@ -47,7 +47,7 @@
   "apis/Google.Cloud.Bigtable.V2": "3.5.0",
   "apis/Google.Cloud.Billing.Budgets.V1": "2.1.0",
   "apis/Google.Cloud.Billing.Budgets.V1Beta1": "2.0.0-beta01",
-  "apis/Google.Cloud.Billing.V1": "3.2.0",
+  "apis/Google.Cloud.Billing.V1": "3.3.0",
   "apis/Google.Cloud.BinaryAuthorization.V1": "2.1.0",
   "apis/Google.Cloud.BinaryAuthorization.V1Beta1": "2.0.0-beta03",
   "apis/Google.Cloud.CertificateManager.V1": "2.3.0",
