@@ -1,5 +1,19 @@
 # Version history
 
+## Version 3.7.0-beta01, released 2025-02-21
+
+
+### New features
+
+* Add Kafka-based sources to IngestionDataSourceSettings proto and IngestionFailureEvent proto ([9324e45](https://github.com/ldetmer/google-cloud-dotnet/commit/9324e45437b5ac8b7e972edaaa183a366f7d4600))
+* add support for message transforms to Topic and Subscription ([97502ea](https://github.com/ldetmer/google-cloud-dotnet/commit/97502ea06aaea8de9b80ac62fb9f3f1635d3fc49))
+
+
+### Documentation improvements
+
+* A comment for field `code` in message `.google.pubsub.v1.JavaScriptUDF` is changed ([e82746a](https://github.com/ldetmer/google-cloud-dotnet/commit/e82746acd04df7a91742fd9b77a8b327e6995368))
+* Fix link for AnalyticsHubSubscriptionInfo ([97502ea](https://github.com/ldetmer/google-cloud-dotnet/commit/97502ea06aaea8de9b80ac62fb9f3f1635d3fc49))
+
 ## Version 3.21.0, released 2025-02-03
 
 ### New features
