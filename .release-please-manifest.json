@@ -164,7 +164,7 @@
   "apis/Google.Cloud.Redis.V1Beta1": "3.0.0-beta02",
   "apis/Google.Cloud.ResourceManager.V3": "2.2.0",
   "apis/Google.Cloud.ResourceSettings.V1": "2.1.0",
-  "apis/Google.Cloud.Retail.V2": "2.5.0",
+  "apis/Google.Cloud.Retail.V2": "2.5.1",
   "apis/Google.Cloud.Run.V2": "2.1.0",
   "apis/Google.Cloud.Scheduler.V1": "3.2.0",
   "apis/Google.Cloud.SecretManager.V1": "2.1.0",
