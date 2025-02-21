@@ -1,5 +1,12 @@
 # Version history
 
+## Version 2.0.1-beta10, released 2025-02-21
+
+
+### Documentation improvements
+
+* mark fields as unused ([25625fc](https://github.com/ldetmer/google-cloud-dotnet/commit/25625fcba367b5212f0c7267ca37972be0a0ff73))
+
 ## Version 2.0.0-beta23, released 2024-10-21
 
 ### New features
