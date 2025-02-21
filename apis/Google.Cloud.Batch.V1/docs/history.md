@@ -1,5 +1,22 @@
 # Version history
 
+## Version 2.1.0, released 2025-02-21
+
+
+### New features
+
+* promote cancel job API to GA ([5f94220](https://github.com/ldetmer/google-cloud-dotnet/commit/5f9422098afd09e3a380f87da95015dad6685734))
+
+
+### Documentation improvements
+
+* clarify options for logs ([e86bb14](https://github.com/ldetmer/google-cloud-dotnet/commit/e86bb14daa6647f1feae65c4aca5b82fcaa2240a))
+* clarify that user provided labels will also be applied to Cloud Logging ([1735012](https://github.com/ldetmer/google-cloud-dotnet/commit/17350123570a6aaf13df90421c804a2361eb1336))
+* clarify the custom instance template needs to be in the same project ([e86bb14](https://github.com/ldetmer/google-cloud-dotnet/commit/e86bb14daa6647f1feae65c4aca5b82fcaa2240a))
+* fix broken references in comments ([945b0e2](https://github.com/ldetmer/google-cloud-dotnet/commit/945b0e287dffcf7e6c623de90ac7853c0c860181))
+* Rephrase reservation field doc ([1d9b15d](https://github.com/ldetmer/google-cloud-dotnet/commit/1d9b15d706a0579dd249d1d7076f2befe3b188ef))
+* Update reservation field to include NO_RESERVATION ([1735012](https://github.com/ldetmer/google-cloud-dotnet/commit/17350123570a6aaf13df90421c804a2361eb1336))
+
 ## Version 2.13.0, released 2025-02-18
 
 ### New features
