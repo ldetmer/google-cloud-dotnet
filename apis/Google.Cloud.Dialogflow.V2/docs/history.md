@@ -1,5 +1,20 @@
 # Version history
 
+## Version 4.11.0, released 2025-02-21
+
+
+### New features
+
+* add new fields for delivering intermediate transcriptions through PubSub ([b94ea2a](https://github.com/ldetmer/google-cloud-dotnet/commit/b94ea2a6f6ca0d2551c7471c018da65ee381f65c))
+* add options of query_source, search_config, end_user_metadata and exact_search ([a08e4da](https://github.com/ldetmer/google-cloud-dotnet/commit/a08e4da2ff37af2a1097ff51e91c694f4b445515))
+* expose metadata in AnswerSource ([a08e4da](https://github.com/ldetmer/google-cloud-dotnet/commit/a08e4da2ff37af2a1097ff51e91c694f4b445515))
+* properly mark TrainingPhrase name field output-only ([d336935](https://github.com/ldetmer/google-cloud-dotnet/commit/d336935d53910959377f0437f88cee1f1577ebf9))
+
+
+### Documentation improvements
+
+* fixed the references to proto method / fields ([d336935](https://github.com/ldetmer/google-cloud-dotnet/commit/d336935d53910959377f0437f88cee1f1577ebf9))
+
 ## Version 4.25.0, released 2024-12-16
 
 ### New features

@@ -81,7 +81,7 @@
   "apis/Google.Cloud.Diagnostics.AspNetCore3": "5.1.0",
   "apis/Google.Cloud.Diagnostics.Common": "5.1.0",
   "apis/Google.Cloud.Dialogflow.Cx.V3": "2.7.0",
-  "apis/Google.Cloud.Dialogflow.V2": "4.10.0",
+  "apis/Google.Cloud.Dialogflow.V2": "4.11.0",
   "apis/Google.Cloud.Dialogflow.V2Beta1": "1.0.0-beta07",
   "apis/Google.Cloud.DiscoveryEngine.V1Beta": "1.0.0-beta05",
   "apis/Google.Cloud.Dlp.V2": "4.5.0",
