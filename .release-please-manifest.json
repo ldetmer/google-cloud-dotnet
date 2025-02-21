@@ -42,7 +42,7 @@
   "apis/Google.Cloud.BigQuery.Reservation.V1": "2.2.0",
   "apis/Google.Cloud.BigQuery.V2": "3.4.0",
   "apis/Google.Cloud.BigQuery.Storage.V1": "3.6.0",
-  "apis/Google.Cloud.Bigtable.Admin.V2": "3.4.0",
+  "apis/Google.Cloud.Bigtable.Admin.V2": "3.4.1",
   "apis/Google.Cloud.Bigtable.Common.V2": "3.0.0",
   "apis/Google.Cloud.Bigtable.V2": "3.5.0",
   "apis/Google.Cloud.Billing.Budgets.V1": "2.1.0",
