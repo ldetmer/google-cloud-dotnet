@@ -52,7 +52,7 @@
   "apis/Google.Cloud.BinaryAuthorization.V1Beta1": "2.0.0-beta03",
   "apis/Google.Cloud.CertificateManager.V1": "2.3.0",
   "apis/Google.Cloud.Channel.V1": "2.7.0",
-  "apis/Google.Cloud.CloudBuild.V1": "2.4.0",
+  "apis/Google.Cloud.CloudBuild.V1": "2.5.0",
   "apis/Google.Cloud.CloudBuild.V2": "1.0.0-beta02",
   "apis/Google.Cloud.CloudDms.V1": "2.1.0",
   "apis/Google.Cloud.Common": "2.0.0",
