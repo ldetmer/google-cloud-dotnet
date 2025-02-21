@@ -1,5 +1,16 @@
 # Version history
 
+## Version 2.1.1, released 2025-02-21
+
+
+### Documentation improvements
+
+* updated comment for `customer_managed_encryption` in message `.google.cloud.secretmanager.v1.Secret` ([d98513f](https://github.com/ldetmer/google-cloud-dotnet/commit/d98513faaaa1ceb29f13cf332dd45f74406cd649))
+* updated comment for `customer_managed_encryption` in message `.google.cloud.secretmanager.v1.SecretVersion` ([d98513f](https://github.com/ldetmer/google-cloud-dotnet/commit/d98513faaaa1ceb29f13cf332dd45f74406cd649))
+* updated comment for `name` in message `.google.cloud.secretmanager.v1.Topic` ([d98513f](https://github.com/ldetmer/google-cloud-dotnet/commit/d98513faaaa1ceb29f13cf332dd45f74406cd649))
+* updated comment for `Replication` ([d98513f](https://github.com/ldetmer/google-cloud-dotnet/commit/d98513faaaa1ceb29f13cf332dd45f74406cd649))
+* updated comment for `scheduled_destroy_time` in message `.google.cloud.secretmanager.v1.SecretVersion` ([d98513f](https://github.com/ldetmer/google-cloud-dotnet/commit/d98513faaaa1ceb29f13cf332dd45f74406cd649))
+
 ## Version 2.5.0, released 2024-05-14
 
 ### New features
