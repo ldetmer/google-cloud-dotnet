@@ -1,5 +1,12 @@
 # Version history
 
+## Version 3.4.1, released 2025-02-21
+
+
+### Bug fixes
+
+* Remove column name validation. ([d79c8ff](https://github.com/ldetmer/google-cloud-dotnet/commit/d79c8ff6ae3db02b73a5a5bed3b2b56333a55eb9))
+
 ## Version 3.11.0, released 2025-02-03
 
 ### Bug fixes
