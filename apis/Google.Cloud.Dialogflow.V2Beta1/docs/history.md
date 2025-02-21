@@ -1,5 +1,20 @@
 # Version history
 
+## Version 1.1.0-beta07, released 2025-02-21
+
+
+### New features
+
+* add new fields for delivering intermediate transcriptions through PubSub ([82c1063](https://github.com/ldetmer/google-cloud-dotnet/commit/82c10635d9faad47a724e503f4e8658c25e2b486))
+* add options of query_source, search_config and context_size ([8b8a0d4](https://github.com/ldetmer/google-cloud-dotnet/commit/8b8a0d4046b9f82d0ad20d3031f571dd0c463c44))
+* add options of query_source, search_config, end_user_metadata and exact_search ([5c57238](https://github.com/ldetmer/google-cloud-dotnet/commit/5c5723801ab467482cdeb0a0302ddb963da21c07))
+* add PhoneNumbers API ([44acfea](https://github.com/ldetmer/google-cloud-dotnet/commit/44acfeaef2a4e95dfc713b7f640576ecbaf157e5))
+* add SipTrunks service ([8b8a0d4](https://github.com/ldetmer/google-cloud-dotnet/commit/8b8a0d4046b9f82d0ad20d3031f571dd0c463c44))
+* add TelephonyConnectInfo of phone call-related info about the conversation ([44acfea](https://github.com/ldetmer/google-cloud-dotnet/commit/44acfeaef2a4e95dfc713b7f640576ecbaf157e5))
+* added support for ALAW encoding ([8b8a0d4](https://github.com/ldetmer/google-cloud-dotnet/commit/8b8a0d4046b9f82d0ad20d3031f571dd0c463c44))
+* expose metadata in AnswerSource ([5c57238](https://github.com/ldetmer/google-cloud-dotnet/commit/5c5723801ab467482cdeb0a0302ddb963da21c07))
+* make TrainingPhrase name field output-only ([0436b0d](https://github.com/ldetmer/google-cloud-dotnet/commit/0436b0df581bee719f71512c5913c1f38026d47b))
+
 ## Version 1.0.0-beta22, released 2025-02-18
 
 ### New features
