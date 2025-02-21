@@ -223,7 +223,7 @@
   "apis/Google.Geo.Type": "1.0.0-beta01",
   "apis/Google.Identity.AccessContextManager.Type": "2.0.0",
   "apis/Google.Identity.AccessContextManager.V1": "2.2.0",
-  "apis/Google.LongRunning": "3.0.0",
+  "apis/Google.LongRunning": "3.0.1",
   "apis/Google.Maps.AddressValidation.V1": "1.0.0-beta03",
   "apis/Google.Maps.MapsPlatformDatasets.V1Alpha": "1.0.0-beta01",
   "apis/Google.Maps.Places.V1": "1.0.0-beta00",
