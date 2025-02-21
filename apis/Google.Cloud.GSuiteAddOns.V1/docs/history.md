@@ -1,5 +1,12 @@
 # Version history
 
+## Version 2.1.1, released 2025-02-21
+
+
+### Documentation improvements
+
+* Minor documentation edits ([899bad0](https://github.com/ldetmer/google-cloud-dotnet/commit/899bad09e4629a5e228c9d616702c0594f05cc18))
+
 ## Version 2.4.0, released 2024-05-14
 
 ### New features

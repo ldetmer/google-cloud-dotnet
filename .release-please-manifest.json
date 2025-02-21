@@ -101,7 +101,7 @@
   "apis/Google.Cloud.Functions.V1": "2.2.0",
   "apis/Google.Cloud.Functions.V2": "1.3.0",
   "apis/Google.Cloud.Functions.V2Beta": "1.0.0-beta03",
-  "apis/Google.Cloud.GSuiteAddOns.V1": "2.1.0",
+  "apis/Google.Cloud.GSuiteAddOns.V1": "2.1.1",
   "apis/Google.Cloud.Gaming.V1": "2.1.0",
   "apis/Google.Cloud.Gaming.V1Beta": "2.0.0-beta02",
   "apis/Google.Cloud.GkeBackup.V1": "2.1.0",
