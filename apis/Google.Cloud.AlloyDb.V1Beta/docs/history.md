@@ -1,5 +1,37 @@
 # Version history
 
+## Version 2.0.0-beta01, released 2025-02-21
+
+
+### ⚠ BREAKING CHANGES
+
+* deprecated various PSC instance configuration fields
+
+### New features
+
+* add more observability options on the Instance level ([8af4d47](https://github.com/ldetmer/google-cloud-dotnet/commit/8af4d47005f38b2859c35889e4c4066d5f3546ef))
+* add new API to execute SQL statements ([8af4d47](https://github.com/ldetmer/google-cloud-dotnet/commit/8af4d47005f38b2859c35889e4c4066d5f3546ef))
+* add new API to perform a promotion or switchover on secondary instances ([8af4d47](https://github.com/ldetmer/google-cloud-dotnet/commit/8af4d47005f38b2859c35889e4c4066d5f3546ef))
+* add new API to upgrade a cluster ([8af4d47](https://github.com/ldetmer/google-cloud-dotnet/commit/8af4d47005f38b2859c35889e4c4066d5f3546ef))
+* add new CloudSQL backup resource ([8af4d47](https://github.com/ldetmer/google-cloud-dotnet/commit/8af4d47005f38b2859c35889e4c4066d5f3546ef))
+* add new cluster and instance level configurations to interact with Gemini ([8af4d47](https://github.com/ldetmer/google-cloud-dotnet/commit/8af4d47005f38b2859c35889e4c4066d5f3546ef))
+* add new PSC instance configuration setting and output the PSC DNS name ([8af4d47](https://github.com/ldetmer/google-cloud-dotnet/commit/8af4d47005f38b2859c35889e4c4066d5f3546ef))
+* add optional field to keep extra roles on a user if it already exists ([8af4d47](https://github.com/ldetmer/google-cloud-dotnet/commit/8af4d47005f38b2859c35889e4c4066d5f3546ef))
+* add support for Free Trials ([8af4d47](https://github.com/ldetmer/google-cloud-dotnet/commit/8af4d47005f38b2859c35889e4c4066d5f3546ef))
+* add support to schedule maintenance ([8af4d47](https://github.com/ldetmer/google-cloud-dotnet/commit/8af4d47005f38b2859c35889e4c4066d5f3546ef))
+* additional field to set tags on a backup or cluster ([8af4d47](https://github.com/ldetmer/google-cloud-dotnet/commit/8af4d47005f38b2859c35889e4c4066d5f3546ef))
+* support for obtaining the public ip addresses of an instance and enabling outbound public ip ([8af4d47](https://github.com/ldetmer/google-cloud-dotnet/commit/8af4d47005f38b2859c35889e4c4066d5f3546ef))
+
+
+### Bug fixes
+
+* deprecated various PSC instance configuration fields ([8af4d47](https://github.com/ldetmer/google-cloud-dotnet/commit/8af4d47005f38b2859c35889e4c4066d5f3546ef))
+
+
+### Documentation improvements
+
+* various typo fixes, correcting the formatting, and clarifications on the request_id and validate_only fields in API requests and on the page_size when listing the database ([8af4d47](https://github.com/ldetmer/google-cloud-dotnet/commit/8af4d47005f38b2859c35889e4c4066d5f3546ef))
+
 ## Version 1.0.0-beta09, released 2024-11-18
 
 ### Bug fixes
