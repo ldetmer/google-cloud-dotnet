@@ -1,5 +1,13 @@
 # Version history
 
+## Version 3.0.1, released 2025-02-21
+
+
+### Documentation improvements
+
+* clarity and typo fixes for documentation ([8ce9e18](https://github.com/ldetmer/google-cloud-dotnet/commit/8ce9e18a10003c8d836dfb568367049bf0ebf258))
+* fix example rpc naming ([8ce9e18](https://github.com/ldetmer/google-cloud-dotnet/commit/8ce9e18a10003c8d836dfb568367049bf0ebf258))
+
 ## Version 3.3.0, released 2024-05-14
 
 ### New features
