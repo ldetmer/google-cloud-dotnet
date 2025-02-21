@@ -1,5 +1,21 @@
 # Version history
 
+## Version 3.4.0, released 2025-02-21
+
+
+### New features
+
+* add active_only field to ListMetricDescriptorsRequest ([fa011c0](https://github.com/ldetmer/google-cloud-dotnet/commit/fa011c0b115313c5815a59fed28408031743d8e4))
+* add filter field to snooze proto ([164b017](https://github.com/ldetmer/google-cloud-dotnet/commit/164b01761550b4824ad79eff16788995785bd483))
+* added SqlCondition in AlertPolicy ([7468d5b](https://github.com/ldetmer/google-cloud-dotnet/commit/7468d5befb4869909881424998f3be0a12467abe))
+* Added support for notification prompts in AlertPolicy ([4541241](https://github.com/ldetmer/google-cloud-dotnet/commit/454124189453710c8fd2a0aef225865c6b64bad2))
+* Added support for PromQL metric validation opt-out in AlertPolicy ([4541241](https://github.com/ldetmer/google-cloud-dotnet/commit/454124189453710c8fd2a0aef225865c6b64bad2))
+
+
+### Documentation improvements
+
+* remove extra fenced code block markers ([164b017](https://github.com/ldetmer/google-cloud-dotnet/commit/164b01761550b4824ad79eff16788995785bd483))
+
 ## Version 3.15.0, released 2025-02-03
 
 ### New features
