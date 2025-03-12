@@ -16,7 +16,7 @@
                 "CreateAnalyticsAccountLinkAsync"
               ]
             },
-            "DeleteAnalyticsAccountLink": {
+            "1DeleteAnalyticsAccountLink": {
               "methods": [
                 "DeleteAnalyticsAccountLink",
                 "DeleteAnalyticsAccountLinkAsync"
