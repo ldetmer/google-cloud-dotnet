@@ -1,0 +1,12 @@
+{
+  "Ad Manager": {
+    "paths": [
+      "apis/Google.Ads.AdManager.V1"
+    ]
+  },
+  "Marketing Platform": {
+    "paths": [
+      "apis/Google.Ads.MarketingPlatform.Admin.V1Alpha"
+    ]
+  }
+}
