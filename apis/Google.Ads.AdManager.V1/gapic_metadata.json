@@ -24,7 +24,7 @@
             },
             "ListAdUnits": {
               "methods": [
-                "ListAdUnits",
+                "ListAdUnits1",
                 "ListAdUnitsAsync"
               ]
             }
