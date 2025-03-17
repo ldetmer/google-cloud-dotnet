@@ -2,7 +2,8 @@
   "libraries": [
     {
       "id": "Google.Cloud.Functions.V2",
-      "version": "v2.70.0",
+      "latestReleaseVersion": "v2.70.0",
+      "nextReleaseVersion": "v2.70.1",
       "releaseTimestamp": "2024-08-13T16:38:48Z",
       "apis": [
         {
@@ -16,7 +17,8 @@
     },
     {
       "id": "Google.Cloud.Spanner.V1",
-      "version": "v2.70.0",
+      "latestReleaseVersion": "v2.70.0",
+      "nextReleaseVersion": "v2.70.1",
       "releaseTimestamp": "2024-11-07T09:18:43Z",
       "apis": [
         {
@@ -42,7 +44,8 @@
     },
       {
           "id": "Google.Ads.AdManager.V1",
-          "version": "v2.70.0",
+          "latestReleaseVersion": "v2.70.0",
+          "nextReleaseVersion": "v2.70.1",
           "releaseTimestamp": "2024-11-07T09:18:43Z",
           "apis": [
           ],
