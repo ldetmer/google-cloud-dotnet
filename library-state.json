@@ -52,10 +52,5 @@
         "apis/Google.Ads.AdManager.V1"
       ]
     }
-  ],
-  "commonPaths": [
-    "Directory.Packages.props",
-    "apis/Directory.Build.props",
-    "apis/Directory.Build.targets"
   ]
 }
