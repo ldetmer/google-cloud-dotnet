@@ -1,1 +1,1 @@
-Library: Google.Cloud.Spanner.V1
+Library: Google.Ads.AdManager.V1
