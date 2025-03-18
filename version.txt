@@ -1,1 +1,3 @@
 \n
+Updating version Google.Cloud.Spanner.V1: v2.70.1
+
