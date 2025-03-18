@@ -1,3 +1,5 @@
 \n
 Updating version Google.Cloud.Spanner.V1: v2.70.1
 
+Updating version Google.Ads.AdManager.V1: v2.70.1
+
