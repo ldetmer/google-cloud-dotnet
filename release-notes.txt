@@ -1,0 +1,14 @@
+Library: Google.Cloud.Spanner.V1
+feat(spanner): A new enum `IsolationLevel` is added
+feat(spanner): A new field `isolation_level` is added to message `.google.spanner.v1.TransactionOptions`
+docs(spanner): A comment for enum value `READ_LOCK_MODE_UNSPECIFIED` in enum `ReadLockMode` is changed
+docs(spanner): A comment for enum value `PESSIMISTIC` in enum `ReadLockMode` is changed
+docs(spanner): A comment for enum value `OPTIMISTIC` in enum `ReadLockMode` is changed
+
+PiperOrigin-RevId: 729265828
+
+Source-Link: https://github.com/googleapis/googleapis/commit/516ab0ae2f7477526ebf2472a28bf5dc191412a7
+
+Source-Link: https://github.com/googleapis/googleapis-gen/commit/ccd095926c893f40148ed9a9ba2276a8d15cf8d9
+Copy-Tag: eyJwIjoiYXBpcy9Hb29nbGUuQ2xvdWQuU3Bhbm5lci5WMS8uT3dsQm90LnlhbWwiLCJoIjoiY2NkMDk1OTI2Yzg5M2Y0MDE0OGVkOWE5YmEyMjc2YThkMTVjZjhkOSJ9
+
