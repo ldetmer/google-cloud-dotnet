@@ -1,5 +1,10 @@
 # Version history
 
+## Version 1.1.0-beta03, released 2025-03-19
+
+Library: Google.Shopping.Merchant.Products.V1Beta
+feat: Update PackageApiMetadata.g.cs
+
 ## Version 1.0.0-beta03, released 2025-03-17
 
 ### New features
