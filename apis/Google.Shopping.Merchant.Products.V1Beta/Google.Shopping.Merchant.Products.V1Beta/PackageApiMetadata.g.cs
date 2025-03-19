@@ -21,7 +21,7 @@ using scg = System.Collections.Generic;
 
 namespace Google.Shopping.Merchant.Products.V1Beta
 {
-    /// <summary>Static class to provide common access to package-wide API metadata.</summary>
+    /// <summary>Static class test to provide common access to package-wide API metadata.</summary>
     internal static class PackageApiMetadata
     {
         /// <summary>The <see cref="gaxgrpc::ApiMetadata"/> for services in this package.</summary>
