@@ -1,6 +1,6 @@
 {
   "distribution_name": "Google.Shopping.Merchant.Products.V1Beta",
-  "release_level": "preview",
+  "release_level": "stable",
   "client_documentation": "https://googleapis.dev/dotnet/Google.Shopping.Merchant.Products.V1Beta/latest",
   "library_type": "GAPIC_AUTO",
   "language": "dotnet",
