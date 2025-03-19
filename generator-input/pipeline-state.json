@@ -1345,7 +1345,7 @@
     "libraryReleaseStates": [
         {
             "id": "Google.Ads.AdManager.V1",
-            "currentVersion": "1.0.0-beta01",
+            "currentVersion": "1.1.0-beta01",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-10-03T15:36:23Z",
             "apis": [
@@ -1585,7 +1585,7 @@
         },
         {
             "id": "Google.Cloud.AlloyDb.V1Beta",
-            "currentVersion": "1.0.0-beta09",
+            "currentVersion": "1.1.0-beta09",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-11-18T19:34:39Z",
             "apis": [
@@ -1630,7 +1630,7 @@
         },
         {
             "id": "Google.Cloud.AIPlatform.V1",
-            "currentVersion": "3.23.0",
+            "currentVersion": "3.24.0",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-03-17T18:52:22Z",
             "apis": [
@@ -2113,7 +2113,6 @@
             "currentVersion": "3.11.0",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-02-03T17:58:23Z",
-            "apis": [],
             "sourcePaths": [
                 "apis/Google.Cloud.BigQuery.V2/Google.Cloud.BigQuery.V2"
             ]
@@ -2153,7 +2152,6 @@
             "currentVersion": "3.2.0",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-03-26T19:14:17Z",
-            "apis": [],
             "sourcePaths": [
                 "apis/Google.Cloud.Bigtable.Common.V2/Google.Cloud.Bigtable.Common.V2"
             ]
@@ -2415,7 +2413,7 @@
         },
         {
             "id": "Google.Cloud.Compute.V1",
-            "currentVersion": "3.6.0",
+            "currentVersion": "3.7.0",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-03-17T18:50:24Z",
             "apis": [
@@ -2703,7 +2701,6 @@
             "currentVersion": "3.2.0",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-03-27T17:16:22Z",
-            "apis": [],
             "sourcePaths": [
                 "apis/Google.Cloud.DevTools.Common/Google.Cloud.DevTools.Common"
             ]
@@ -2725,7 +2722,7 @@
         },
         {
             "id": "Google.Cloud.Dialogflow.V2",
-            "currentVersion": "4.26.0",
+            "currentVersion": "4.27.0",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-03-10T18:30:33Z",
             "apis": [
@@ -2815,7 +2812,7 @@
         },
         {
             "id": "Google.Cloud.DocumentAI.V1Beta3",
-            "currentVersion": "2.0.0-beta23",
+            "currentVersion": "2.1.0-beta23",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-10-22T17:56:27Z",
             "apis": [
@@ -3313,7 +3310,6 @@
             "currentVersion": "4.4.0",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-09-26T08:16:29Z",
-            "apis": [],
             "sourcePaths": [
                 "apis/Google.Cloud.Logging.Log4Net/Google.Cloud.Logging.Log4Net"
             ]
@@ -3323,7 +3319,6 @@
             "currentVersion": "1.4.0",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-03-03T18:14:27Z",
-            "apis": [],
             "sourcePaths": [
                 "apis/Google.Cloud.Logging.Console/Google.Cloud.Logging.Console"
             ]
@@ -3333,7 +3328,6 @@
             "currentVersion": "5.2.0",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-09-26T08:16:33Z",
-            "apis": [],
             "sourcePaths": [
                 "apis/Google.Cloud.Logging.NLog/Google.Cloud.Logging.NLog"
             ]
@@ -3385,7 +3379,7 @@
         },
         {
             "id": "Google.Cloud.ManagedKafka.V1",
-            "currentVersion": "1.0.0-beta04",
+            "currentVersion": "1.1.0-beta04",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-03-17T18:54:24Z",
             "apis": [
@@ -4513,7 +4507,6 @@
             "currentVersion": "4.11.0",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-03-10T18:24:32Z",
-            "apis": [],
             "sourcePaths": [
                 "apis/Google.Cloud.Storage.V1/Google.Cloud.Storage.V1"
             ]
@@ -4733,7 +4726,6 @@
             "currentVersion": "3.4.0",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-03-26T19:47:02Z",
-            "apis": [],
             "sourcePaths": [
                 "apis/Google.Cloud.Translation.V2/Google.Cloud.Translation.V2"
             ]
@@ -4908,7 +4900,6 @@
             "currentVersion": "2.4.0",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-03-26T19:52:25Z",
-            "apis": [],
             "sourcePaths": [
                 "apis/Google.Cloud.Workflows.Common.V1/Google.Cloud.Workflows.Common.V1"
             ]
@@ -4918,7 +4909,6 @@
             "currentVersion": "2.0.0-beta04",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-03-26T19:52:48Z",
-            "apis": [],
             "sourcePaths": [
                 "apis/Google.Cloud.Workflows.Common.V1Beta/Google.Cloud.Workflows.Common.V1Beta"
             ]
@@ -4955,7 +4945,7 @@
         },
         {
             "id": "Google.Cloud.Workflows.V1",
-            "currentVersion": "2.5.0",
+            "currentVersion": "2.6.0",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T15:40:22Z",
             "apis": [
@@ -5285,7 +5275,7 @@
         },
         {
             "id": "Google.Shopping.Merchant.Products.V1Beta",
-            "currentVersion": "1.0.0-beta03",
+            "currentVersion": "1.1.0-beta03",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-03-17T18:40:29Z",
             "apis": [
@@ -5405,7 +5395,6 @@
             "currentVersion": "5.2.0",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-03-05T19:58:15Z",
-            "apis": [],
             "sourcePaths": [
                 "apis/Google.Cloud.Diagnostics.AspNetCore3/Google.Cloud.Diagnostics.AspNetCore3",
                 "apis/Google.Cloud.Diagnostics.Common/Google.Cloud.Diagnostics.Common"
@@ -5448,7 +5437,7 @@
             ]
         }
     ],
-    "common_library_source_paths": [
+    "commonLibrarySourcePaths": [
         "Directory.Packages.props"
     ]
 }
