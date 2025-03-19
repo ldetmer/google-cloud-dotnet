@@ -11,7 +11,7 @@ using pbr = global::Google.Protobuf.Reflection;
 using scg = global::System.Collections.Generic;
 namespace Google.Ads.AdManager.V1 {
 
-  /// <summary>Holder for reflection information generated from google/ads/admanager/v1/ad_unit_enums.proto</summary>
+  /// <summary>Holder for [test change] reflection information generated from google/ads/admanager/v1/ad_unit_enums.proto</summary>
   public static partial class AdUnitEnumsReflection {
 
     #region Descriptor
