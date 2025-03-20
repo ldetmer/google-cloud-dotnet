@@ -2722,7 +2722,7 @@
         },
         {
             "id": "Google.Cloud.Dialogflow.V2",
-            "currentVersion": "4.26.0",
+            "currentVersion": "4.27.0",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-03-10T18:30:33Z",
             "apis": [
