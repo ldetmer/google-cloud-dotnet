@@ -1,5 +1,40 @@
 # Version history
 
+## Version 1.1.0-beta09, released 2025-03-20
+
+feat: A new method `ExportCluster` is added to service `AlloyDBAdmin`
+feat: A new message `GcsDestination` is added
+feat: A new message `ExportClusterRequest` is added
+feat: A new message `ExportClusterResponse` is added
+docs: A comment for field `zone_id` in message `.google.cloud.alloydb.v1beta.Instance` is changed
+docs: A comment for field `id` in message `.google.cloud.alloydb.v1beta.Instance` is changed
+docs: A comment for field `ip` in message `.google.cloud.alloydb.v1beta.Instance` is changed
+docs: A comment for field `state` in message `.google.cloud.alloydb.v1beta.Instance` is changed
+docs: A comment for field `database_flags` in message `.google.cloud.alloydb.v1beta.Instance` is changed
+docs: A comment for field `requested_cancellation` in message `.google.cloud.alloydb.v1beta.OperationMetadata` is changed
+
+PiperOrigin-RevId: 737752125
+
+Source-Link: https://github.com/googleapis/googleapis/commit/6155d42e99f45ebf53100d492852be1561916137
+
+Source-Link: https://github.com/googleapis/googleapis-gen/commit/367acaddbab3302a6a579d960990b73c421e49a6
+Copy-Tag: eyJwIjoiYXBpcy9Hb29nbGUuQ2xvdWQuQWxsb3lEYi5WMUJldGEvLk93bEJvdC55YW1sIiwiaCI6IjM2N2FjYWRkYmFiMzMwMmE2YTU3OWQ5NjA5OTBiNzNjNDIxZTQ5YTYifQ==
+
+chore: update copyright year for auto-generated protos
+
+PiperOrigin-RevId: 731731294
+
+Source-Link: https://github.com/googleapis/googleapis/commit/a2dbd2daf634a4841d98ce2ef77aea8e673e71e5
+
+Source-Link: https://github.com/googleapis/googleapis-gen/commit/c28cf034e138ea0987062a338500211b7b4f4362
+Copy-Tag: eyJwIjoiYXBpcy9Hb29nbGUuQ2xvdWQuQWxsb3lEYi5WMUJldGEvLk93bEJvdC55YW1sIiwiaCI6ImMyOGNmMDM0ZTEzOGVhMDk4NzA2MmEzMzg1MDAyMTFiN2I0ZjQzNjIifQ==
+
+chore: Regenerate all APIs to update copyright year
+
+chore: Regenerate all project files
+
+This is basically removing the version override for GAX, gRPC etc.
+
 ## Version 1.0.0-beta09, released 2024-11-18
 
 ### Bug fixes

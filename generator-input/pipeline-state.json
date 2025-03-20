@@ -1585,7 +1585,7 @@
         },
         {
             "id": "Google.Cloud.AlloyDb.V1Beta",
-            "currentVersion": "1.0.0-beta09",
+            "currentVersion": "1.1.0-beta09",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-11-18T19:34:39Z",
             "apis": [
