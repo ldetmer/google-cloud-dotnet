@@ -453,7 +453,7 @@
         },
         {
             "id": "google/cloud/dialogflow/v2",
-            "lastGeneratedCommit": "c57048e5e01822cbac85d8d16660cd096454d00f",
+            "lastGeneratedCommit": "b99e73287af959fc935b9aec9a9ac70ba837a851",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC"
         },
         {
@@ -2722,7 +2722,7 @@
         },
         {
             "id": "Google.Cloud.Dialogflow.V2",
-            "currentVersion": "4.26.0",
+            "currentVersion": "4.27.0",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-03-10T18:30:33Z",
             "apis": [
