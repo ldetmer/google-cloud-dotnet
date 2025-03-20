@@ -483,7 +483,7 @@
         },
         {
             "id": "google/cloud/documentai/v1beta3",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "602d65c092a5310d93b80e965fe9539b6ae679b3",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC"
         },
         {
@@ -2812,7 +2812,7 @@
         },
         {
             "id": "Google.Cloud.DocumentAI.V1Beta3",
-            "currentVersion": "2.0.0-beta23",
+            "currentVersion": "2.1.0-beta23",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-10-22T17:56:27Z",
             "apis": [
