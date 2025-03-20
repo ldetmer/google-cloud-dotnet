@@ -83,7 +83,7 @@
         },
         {
             "id": "google/cloud/alloydb/v1beta",
-            "lastGeneratedCommit": "6155d42e99f45ebf53100d492852be1561916137",
+            "lastGeneratedCommit": "602d65c092a5310d93b80e965fe9539b6ae679b3",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC"
         },
         {
@@ -1585,7 +1585,7 @@
         },
         {
             "id": "Google.Cloud.AlloyDb.V1Beta",
-            "currentVersion": "1.0.0-beta09",
+            "currentVersion": "1.1.0-beta09",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-11-18T19:34:39Z",
             "apis": [
