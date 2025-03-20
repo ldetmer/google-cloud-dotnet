@@ -1630,7 +1630,7 @@
         },
         {
             "id": "Google.Cloud.AIPlatform.V1",
-            "currentVersion": "3.23.0",
+            "currentVersion": "3.24.0",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-03-17T18:52:22Z",
             "apis": [
