@@ -2413,7 +2413,7 @@
         },
         {
             "id": "Google.Cloud.Compute.V1",
-            "currentVersion": "3.6.0",
+            "currentVersion": "3.7.0",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-03-17T18:50:24Z",
             "apis": [
