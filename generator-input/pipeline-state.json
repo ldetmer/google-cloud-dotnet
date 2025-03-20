@@ -4945,7 +4945,7 @@
         },
         {
             "id": "Google.Cloud.Workflows.V1",
-            "currentVersion": "2.5.0",
+            "currentVersion": "2.6.0",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T15:40:22Z",
             "apis": [
