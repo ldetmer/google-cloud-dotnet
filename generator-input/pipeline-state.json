@@ -1203,7 +1203,7 @@
         },
         {
             "id": "google/cloud/workflows/v1",
-            "lastGeneratedCommit": "d7db9c6f0c5a52efda18e8cc3e3e8e6a67ee3b5c",
+            "lastGeneratedCommit": "f5a0bda387fdb74582ab9f7fff13163f623a38eb",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC"
         },
         {
@@ -4945,7 +4945,7 @@
         },
         {
             "id": "Google.Cloud.Workflows.V1",
-            "currentVersion": "2.5.0",
+            "currentVersion": "2.6.0",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T15:40:22Z",
             "apis": [
