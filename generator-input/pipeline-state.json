@@ -2812,7 +2812,7 @@
         },
         {
             "id": "Google.Cloud.DocumentAI.V1Beta3",
-            "currentVersion": "2.0.0-beta23",
+            "currentVersion": "2.1.0-beta23",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-10-22T17:56:27Z",
             "apis": [
