@@ -98,7 +98,7 @@
         },
         {
             "id": "google/cloud/aiplatform/v1",
-            "lastGeneratedCommit": "2c2a335e10b6b35b02b28dd1004ebdc94790d14d",
+            "lastGeneratedCommit": "65eb876885c7d19a7af9758f9588b06a93ac1385",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC"
         },
         {
@@ -1630,7 +1630,7 @@
         },
         {
             "id": "Google.Cloud.AIPlatform.V1",
-            "currentVersion": "3.23.0",
+            "currentVersion": "3.24.0",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-03-17T18:52:22Z",
             "apis": [
