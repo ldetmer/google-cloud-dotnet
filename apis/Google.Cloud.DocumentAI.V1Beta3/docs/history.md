@@ -1,5 +1,15 @@
 # Version history
 
+## Version 2.0.0-beta24, released 2025-03-21
+
+### New features
+
+- Added config options to enable LLM layout parsing
+
+### Documentation improvements
+
+- mark fields as unused
+
 ## Version 2.0.0-beta23, released 2024-10-21
 
 ### New features
