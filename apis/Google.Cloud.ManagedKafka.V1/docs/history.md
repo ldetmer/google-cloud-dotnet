@@ -1,5 +1,16 @@
 # Version history
 
+## Version 1.0.0-beta05, released 2025-03-21
+
+feat: add Managed Kafka Connect API
+
+PiperOrigin-RevId: 738085357
+
+Source-Link: https://github.com/googleapis/googleapis/commit/9eee08a64ae74996275e914db69dec1e022bdce7
+
+Source-Link: https://github.com/googleapis/googleapis-gen/commit/f75a1ddee634861fc2bd1ff22d68159e7699b2c0
+Copy-Tag: eyJwIjoiYXBpcy9Hb29nbGUuQ2xvdWQuTWFuYWdlZEthZmthLlYxLy5Pd2xCb3QueWFtbCIsImgiOiJmNzVhMWRkZWU2MzQ4NjFmYzJiZDFmZjIyZDY4MTU5ZTc2OTliMmMwIn0=
+
 ## Version 1.0.0-beta04, released 2025-03-17
 
 ### Bug fixes
