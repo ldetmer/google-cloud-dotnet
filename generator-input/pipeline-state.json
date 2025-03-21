@@ -1308,7 +1308,7 @@
         },
         {
             "id": "google/shopping/merchant/products/v1beta",
-            "lastGeneratedCommit": "bc7f715d7f58afe381fbc244a8bcde7f0afa11ed",
+            "lastGeneratedCommit": "31d5d2b6125546b577f7a7adf1664a264747d64e",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC"
         },
         {
@@ -5275,7 +5275,7 @@
         },
         {
             "id": "Google.Shopping.Merchant.Products.V1Beta",
-            "currentVersion": "1.0.0-beta03",
+            "currentVersion": "1.0.0-beta04",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-03-17T18:40:29Z",
             "apis": [
