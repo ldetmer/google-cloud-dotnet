@@ -1,5 +1,23 @@
 # Version history
 
+## Version 1.0.0-beta10, released 2025-03-21
+
+### New features
+
+- A new method `ExportCluster` is added to service `AlloyDBAdmin`
+- A new message `GcsDestination` is added
+- A new message `ExportClusterRequest` is added
+- A new message `ExportClusterResponse` is added
+
+### Documentation improvements
+
+- A comment for field `zone_id` in message `.google.cloud.alloydb.v1beta.Instance` is changed
+- A comment for field `id` in message `.google.cloud.alloydb.v1beta.Instance` is changed
+- A comment for field `ip` in message `.google.cloud.alloydb.v1beta.Instance` is changed
+- A comment for field `state` in message `.google.cloud.alloydb.v1beta.Instance` is changed
+- A comment for field `database_flags` in message `.google.cloud.alloydb.v1beta.Instance` is changed
+- A comment for field `requested_cancellation` in message `.google.cloud.alloydb.v1beta.OperationMetadata` is changed
+
 ## Version 1.0.0-beta09, released 2024-11-18
 
 ### Bug fixes
