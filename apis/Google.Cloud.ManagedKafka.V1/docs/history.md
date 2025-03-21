@@ -1,5 +1,11 @@
 # Version history
 
+## Version 1.0.0-beta05, released 2025-03-21
+
+### New features
+
+- add Managed Kafka Connect API
+
 ## Version 1.0.0-beta04, released 2025-03-17
 
 ### Bug fixes
