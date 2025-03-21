@@ -1,5 +1,14 @@
 # Version history
 
+## Version 3.7.0, released 2025-03-21
+
+feat: Update Compute Engine API to revision 20250302 (#995)
+
+Source-Link: https://github.com/googleapis/googleapis/commit/4c4d2b6ad6f52a0b27e9b49d79df1c18ce610e4f
+
+Source-Link: https://github.com/googleapis/googleapis-gen/commit/f3cb7910f380af63c2577783889cdab0e7d4fab9
+Copy-Tag: eyJwIjoiYXBpcy9Hb29nbGUuQ2xvdWQuQ29tcHV0ZS5WMS8uT3dsQm90LnlhbWwiLCJoIjoiZjNjYjc5MTBmMzgwYWY2M2MyNTc3NzgzODg5Y2RhYjBlN2Q0ZmFiOSJ9
+
 ## Version 3.6.0, released 2025-03-17
 
 ### New features
