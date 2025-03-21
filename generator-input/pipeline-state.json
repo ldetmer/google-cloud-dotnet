@@ -343,7 +343,7 @@
         },
         {
             "id": "google/cloud/compute/v1",
-            "lastGeneratedCommit": "2753fe1683a42442aa7a4b778c416c886a647fe6",
+            "lastGeneratedCommit": "633014022be4611d3dab03c5f44da62450ee563a",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC"
         },
         {
@@ -2413,7 +2413,7 @@
         },
         {
             "id": "Google.Cloud.Compute.V1",
-            "currentVersion": "3.6.0",
+            "currentVersion": "3.7.0",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-03-17T18:50:24Z",
             "apis": [
