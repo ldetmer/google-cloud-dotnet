@@ -1,5 +1,18 @@
 # Version history
 
+## Version 3.24.0, released 2025-03-21
+
+feat: Add env variables and agent framework to ReasoningEngineSpec
+docs: Update comment for `package_spec` from required to optional in `ReasoningEngineSpec`.
+docs: Add `deployment_spec` and `agent_framework` field to `ReasoningEngineSpec`.
+
+PiperOrigin-RevId: 738059528
+
+Source-Link: https://github.com/googleapis/googleapis/commit/4eb76f5976b75eddfad4ab86e2d898f408a2334f
+
+Source-Link: https://github.com/googleapis/googleapis-gen/commit/8348b2a4d2c02742d2ff0f4beb5736881554cab7
+Copy-Tag: eyJwIjoiYXBpcy9Hb29nbGUuQ2xvdWQuQUlQbGF0Zm9ybS5WMS8uT3dsQm90LnlhbWwiLCJoIjoiODM0OGIyYTRkMmMwMjc0MmQyZmYwZjRiZWI1NzM2ODgxNTU0Y2FiNyJ9
+
 ## Version 3.23.0, released 2025-03-17
 
 ### New features
