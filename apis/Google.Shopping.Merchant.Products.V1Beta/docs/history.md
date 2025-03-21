@@ -1,5 +1,11 @@
 # Version history
 
+## Version 1.0.0-beta04, released 2025-03-21
+
+### New features
+
+- Update PackageApiMetadata.g.cs
+
 ## Version 1.0.0-beta03, released 2025-03-17
 
 ### New features
