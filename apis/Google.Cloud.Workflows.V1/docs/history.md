@@ -1,5 +1,19 @@
 # Version history
 
+## Version 2.6.0, released 2025-03-21
+
+### New features
+
+- add ListWorkflowRevisions method
+- add ExecutionHistoryLevel to Workflow
+- add crypto key config to Workflow
+- add tags to Workflow
+- add ExecutionHistoryLevel enum
+
+### Documentation improvements
+
+- update Workflow some standard field docs
+
 ## Version 2.5.0, released 2024-05-14
 
 ### New features
