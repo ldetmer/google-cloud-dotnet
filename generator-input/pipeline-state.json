@@ -668,7 +668,7 @@
         },
         {
             "id": "google/cloud/managedkafka/v1",
-            "lastGeneratedCommit": "8f7e301d346ba792a9bd282f8d62db7fad87cb8a",
+            "lastGeneratedCommit": "fba13dc09aa7a6619359550c4b13992f63b0cdc9",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC"
         },
         {
@@ -3379,7 +3379,7 @@
         },
         {
             "id": "Google.Cloud.ManagedKafka.V1",
-            "currentVersion": "1.0.0-beta04",
+            "currentVersion": "1.0.0-beta05",
             "automationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-03-17T18:54:24Z",
             "apis": [
