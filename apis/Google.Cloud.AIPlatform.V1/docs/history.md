@@ -1,5 +1,16 @@
 # Version history
 
+## Version 3.24.0, released 2025-03-21
+
+### New features
+
+- Add env variables and agent framework to ReasoningEngineSpec
+
+### Documentation improvements
+
+- Update comment for `package_spec` from required to optional in `ReasoningEngineSpec`.
+- Add `deployment_spec` and `agent_framework` field to `ReasoningEngineSpec`.
+
 ## Version 3.23.0, released 2025-03-17
 
 ### New features
