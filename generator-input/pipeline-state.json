@@ -1229,11 +1229,12 @@
         },
         {
             "id": "Google.Cloud.Datastream.V1",
-            "currentVersion": "2.9.0",
+            "currentVersion": "2.10.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-01-27T18:01:04Z",
+            "releaseTimestamp": "2025-03-28T18:54:40.558617128Z",
             "lastGeneratedCommit": "18f8cb5b581d073222006396175cd0a360a72adf",
+            "lastReleasedCommit": "18f8cb5b581d073222006396175cd0a360a72adf",
             "apiPaths": [
                 "google/cloud/datastream/v1"
             ],
