@@ -1,5 +1,11 @@
 # Version history
 
+## Version 1.8.0, released 2025-03-28
+
+### New features
+
+- Support new feature Sharing Cloud Pubsub Streams via AH (GA) and Subscriber Email logging feature
+
 ## Version 1.7.0, released 2024-07-08
 
 ### New features
