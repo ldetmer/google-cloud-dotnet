@@ -1,5 +1,34 @@
 # Version history
 
+## Version 1.7.0, released 2025-03-28
+
+### New features
+
+- move serving config update API to GA
+- add time_zone in user info
+- add stream answer API
+- support query rephraser model for answer API
+- support end user spec for answer API
+- support grounding and safety rating for answer API
+- support relevance threshold in search
+- support boosting for blended search
+- support auto mode in search as your type
+- support model scores in search
+- support search highlighting
+- support enterprise web retrieval source for grounding
+- support images in web search grounding
+- add sitemap APIs
+- add interpolation boost action and promotion action
+- allow FHIR import to use latest predefined schema
+- allow unstructured data import to force refresh all content
+- support conversion user event
+- support panel aware user event
+
+### Documentation improvements
+
+- keep the API doc up-to-date with recent changes
+- keep the API doc up-to-date with recent changes
+
 ## Version 1.6.0, released 2024-10-29
 
 ### New features
