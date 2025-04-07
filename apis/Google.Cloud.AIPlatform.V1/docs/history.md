@@ -1,5 +1,13 @@
 # Version history
 
+## Version 3.25.0, released 2025-04-07
+
+### New features
+
+- add page spans in retrieved contexts from Vertex RAG Engine in aiplatform v1
+- add support for Vertex AI Search engine
+- Enable force deletion in ReasoningEngine
+
 ## Version 3.24.0, released 2025-03-24
 
 ### New features
