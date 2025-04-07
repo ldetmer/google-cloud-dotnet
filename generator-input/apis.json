@@ -373,7 +373,7 @@
     },
     {
       "id": "Google.Cloud.AIPlatform.V1Beta1",
-      "version": "1.0.0-beta23",
+      "version": "1.0.0-beta24",
       "type": "grpc",
       "productName": "Vertex AI",
       "productUrl": "https://cloud.google.com/vertex-ai/docs",
@@ -558,7 +558,7 @@
     },
     {
       "id": "Google.Cloud.AppHub.V1",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "type": "grpc",
       "productName": "App Hub",
       "productUrl": "https://cloud.google.com/app-hub/docs/overview",
