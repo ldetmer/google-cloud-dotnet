@@ -1,5 +1,15 @@
 # Version history
 
+## Version 1.1.0, released 2025-04-08
+
+### New features
+
+- add enum `Type.GLOBAL`
+
+### Documentation improvements
+
+- misc comment updates, formatting
+
 ## Version 1.0.0, released 2024-12-05
 
 No API surface changes; just dependency updates and promotion to GA.
