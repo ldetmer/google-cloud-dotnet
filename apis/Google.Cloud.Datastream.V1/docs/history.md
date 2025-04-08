@@ -1,5 +1,22 @@
 # Version history
 
+## Version 2.10.0, released 2025-04-08
+
+### New features
+
+- A new field `secret_manager_stored_password` is added to multiple messages
+- A new messages related to `SalesforceProfile` are added
+- A new message `BlmtConfig` is added
+- A new field `blmt_config` is added to message `.google.cloud.datastream.v1.BigQueryDestinationConfig`
+- A new field `satisfies_pzs` is added to multiple messages.
+- A new field `satisfies_pzi` is added to multiple messages.
+- A new message `MysqlGtidPosition` is added
+- A new field `mysql_gtid_position` is added to message `.google.cloud.datastream.v1.CdcStrategy`
+
+### Documentation improvements
+
+- documentation improvements and changes for multiple fields
+
 ## Version 2.9.0, released 2025-01-27
 
 ### New features
