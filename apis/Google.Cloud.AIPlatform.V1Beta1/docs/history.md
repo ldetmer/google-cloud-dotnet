@@ -1,5 +1,21 @@
 # Version history
 
+## Version 1.0.0-beta24, released 2025-04-08
+
+### New features
+
+- add page spans in retrieved contexts from Vertex RAG Engine in aiplatform v1beta1
+- Add example, example_store, and example_store_service protos
+- Add session.proto and session_service.proto
+- Add batch prediction assessments to multimodal dataset RPCs
+- Enable force deletion in ReasoningEngine v1beta1
+- add model_config field for model selection preference
+
+### Documentation improvements
+
+- A comment for field `rag_files_count` in message `.google.cloud.aiplatform.v1beta1.RagCorpus` is changed
+- A comment for field `model_name` in message `.google.cloud.aiplatform.v1beta1.RagFileParsingConfig` is changed
+
 ## Version 1.0.0-beta23, released 2025-03-24
 
 ### New features
