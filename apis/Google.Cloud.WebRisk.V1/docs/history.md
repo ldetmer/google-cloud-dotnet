@@ -1,5 +1,11 @@
 # Version history
 
+## Version 2.8.0, released 2025-04-25
+
+### New features
+
+- Update Webrisk.g.cs
+
 ## Version 2.7.0, released 2025-04-17
 
 ### New features
