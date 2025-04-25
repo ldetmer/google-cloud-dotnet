@@ -11,7 +11,7 @@ using pbr = global::Google.Protobuf.Reflection;
 using scg = global::System.Collections.Generic;
 namespace Google.Cloud.WebRisk.V1 {
 
-  /// <summary>Holder for reflection information generated from google/cloud/webrisk/v1/webrisk.proto</summary>
+  /// <summary>Holder for test reflection information generated from google/cloud/webrisk/v1/webrisk.proto</summary>
   public static partial class WebriskReflection {
 
     #region Descriptor
