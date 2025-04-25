@@ -1284,7 +1284,7 @@
         {
             "id": "Google.Cloud.DeveloperConnect.V1",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
+            "releaseAutomationLevel": "AUTOMATION_LEVEL_BLOCKED",
             "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
             "apiPaths": [
                 "google/cloud/developerconnect/v1"
@@ -2364,7 +2364,7 @@
             "id": "Google.Cloud.Parallelstore.V1Beta",
             "currentVersion": "1.0.0-beta07",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseAutomationLevel": "AUTOMATION_LEVEL_BLOCKED",
+            "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-12-06T08:08:32Z",
             "lastGeneratedCommit": "07c7b132c79656e944a2cc97fb400532834eb6f0",
             "apiPaths": [
