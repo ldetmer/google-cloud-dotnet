@@ -5,7 +5,7 @@ on:
     types: [opened, synchronize, reopened]
 
 jobs:
-
+  if: false # This disables the entire workflow
   diff:
     runs-on: ubuntu-latest
     env:
